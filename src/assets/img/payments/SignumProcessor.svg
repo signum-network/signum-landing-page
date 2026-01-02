@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 882.90001 882.90004"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="SignumProcessor.svg"
+   width="882.90002"
+   height="882.90002"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.53966259"
+     inkscape:cx="805.1327"
+     inkscape:cy="534.59329"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1-2" />
+  <defs
+     id="defs29">
+    <style
+       id="style1">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#4271e8;}.cls-4{opacity:0.2;}.cls-5{opacity:0.1;fill:url(#Unbenannter_Verlauf_16);}.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-24,.cls-5,.cls-7{isolation:isolate;}.cls-16,.cls-19,.cls-21,.cls-6{fill:#42e8e0;}.cls-19,.cls-7{opacity:0.8;}.cls-7{fill:url(#Unbenannter_Verlauf_3);}.cls-8{fill:url(#Unbenannter_Verlauf_27);}.cls-9{fill:#bcbeff;}.cls-10{fill:#fff;}.cls-11,.cls-24{fill:#0f054c;}.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-20{opacity:0.5;}.cls-12{fill:url(#Unbenannter_Verlauf_11);}.cls-13{fill:url(#Unbenannter_Verlauf_11-2);}.cls-14{fill:url(#Unbenannter_Verlauf_11-3);}.cls-15{fill:url(#Unbenannter_Verlauf_11-4);}.cls-17{fill:url(#Unbenannter_Verlauf_11-5);}.cls-18{fill:url(#Unbenannter_Verlauf_11-6);}.cls-20{fill:url(#Unbenannter_Verlauf_11-7);}.cls-21{opacity:0.7;}.cls-22{fill:url(#Unbenannter_Verlauf_26);}.cls-23{fill:url(#Unbenannter_Verlauf_27-2);}.cls-24{opacity:0.6;}.cls-25{fill:url(#Unbenannter_Verlauf_26-2);}.cls-26{fill:url(#Unbenannter_Verlauf_27-3);}.cls-27{fill:#251c72;}.cls-28{fill:url(#Unbenannter_Verlauf_26-3);}.cls-29{fill:url(#Unbenannter_Verlauf_27-4);}.cls-30{fill:url(#Unbenannter_Verlauf_26-4);}.cls-31{fill:url(#Unbenannter_Verlauf_27-5);}.cls-32{fill:url(#Unbenannter_Verlauf_26-5);}.cls-33{fill:url(#Unbenannter_Verlauf_27-6);}.cls-34{fill:url(#Unbenannter_Verlauf_26-6);}.cls-35{fill:url(#Unbenannter_Verlauf_27-7);}.cls-36{fill:url(#Unbenannter_Verlauf_26-7);}.cls-37{fill:url(#Unbenannter_Verlauf_27-8);}.cls-38{fill:url(#Unbenannter_Verlauf_26-8);}.cls-39{fill:url(#Unbenannter_Verlauf_27-9);}.cls-40{fill:#706ec4;}</style>
+    <clipPath
+       id="clip-path"
+       transform="translate(-34.38 -49.43)">
+      <rect
+         class="cls-1"
+         width="1662.33"
+         height="1107.3199"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+    <radialGradient
+       id="Unbenannter_Verlauf_16"
+       cx="2691.47"
+       cy="1993.51"
+       r="0.5"
+       gradientTransform="matrix(882.76,0,0,-882.76,-2374912.7,1760299.4)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#42e8e0"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#3fdcd8"
+         stop-opacity="0"
+         id="stop2" />
+    </radialGradient>
+    <radialGradient
+       id="Unbenannter_Verlauf_3"
+       cx="2678.6699"
+       cy="2002.6899"
+       r="0.81"
+       gradientTransform="matrix(155.45,0,0,-155.55,-415344.44,312077.12)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#03002d"
+         id="stop3" />
+      <stop
+         offset="0.16"
+         stop-color="#403e60"
+         id="stop4" />
+      <stop
+         offset="0.33"
+         stop-color="#797890"
+         id="stop5" />
+      <stop
+         offset="0.49"
+         stop-color="#a9a8b7"
+         id="stop6" />
+      <stop
+         offset="0.64"
+         stop-color="#ceced6"
+         id="stop7" />
+      <stop
+         offset="0.78"
+         stop-color="#e9e8ec"
+         id="stop8" />
+      <stop
+         offset="0.9"
+         stop-color="#f9f9fa"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         id="stop10" />
+    </radialGradient>
+    <linearGradient
+       id="Unbenannter_Verlauf_27"
+       x1="2684.49"
+       y1="2009.79"
+       x2="2685.77"
+       y2="2009.79"
+       gradientTransform="matrix(269.41,0,0,-93.34,-722375.66,188202.31)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#706ec4"
+         id="stop11" />
+      <stop
+         offset="0.02"
+         stop-color="#6d6bc1"
+         id="stop12" />
+      <stop
+         offset="0.25"
+         stop-color="#5651ac"
+         id="stop13" />
+      <stop
+         offset="0.49"
+         stop-color="#463e9d"
+         id="stop14" />
+      <stop
+         offset="0.73"
+         stop-color="#3c3393"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#393091"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="Unbenannter_Verlauf_11"
+       x1="2682.05"
+       y1="2005.79"
+       x2="2683.05"
+       y2="2005.79"
+       gradientTransform="matrix(207.22,0,0,-119.64,-554823.19,240528.28)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#42e8e0"
+         id="stop17" />
+      <stop
+         offset="0.15"
+         stop-color="#42e3df"
+         id="stop18" />
+      <stop
+         offset="0.33"
+         stop-color="#44d4de"
+         id="stop19" />
+      <stop
+         offset="0.52"
+         stop-color="#48bddd"
+         id="stop20" />
+      <stop
+         offset="0.72"
+         stop-color="#4d9bda"
+         id="stop21" />
+      <stop
+         offset="0.93"
+         stop-color="#5471d8"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#5761d7"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="Unbenannter_Verlauf_11-2"
+       x1="2670.3999"
+       y1="2014.27"
+       x2="2671.3999"
+       y2="2014.27"
+       gradientTransform="matrix(103.61,0,0,-74.9,-275630.43,151401.1)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_11-3"
+       x1="2670.3999"
+       y1="2014.27"
+       x2="2671.3999"
+       y2="2014.27"
+       gradientTransform="matrix(103.61,0,0,-74.9,-275734.04,151397.2)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_11-4"
+       x1="2682.05"
+       y1="2005.79"
+       x2="2683.05"
+       y2="2005.79"
+       gradientTransform="matrix(207.22,0,0,-119.64,-554823.19,240515.14)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_11-5"
+       x1="2670.3999"
+       y1="2014.27"
+       x2="2671.3999"
+       y2="2014.27"
+       gradientTransform="matrix(103.61,0,0,-74.9,-275622.37,151457.02)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_11-6"
+       x1="2670.3999"
+       y1="2014.27"
+       x2="2671.3999"
+       y2="2014.27"
+       gradientTransform="matrix(103.61,0,0,-74.9,-275734.04,151458.97)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_11-7"
+       x1="2682.05"
+       y1="2007.21"
+       x2="2683.05"
+       y2="2007.21"
+       gradientTransform="matrix(207.22,0,0,-108.71,-554823.19,218706.3)"
+       xlink:href="#Unbenannter_Verlauf_11" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26"
+       x1="2681.75"
+       y1="2003.62"
+       x2="2682.21"
+       y2="2003.62"
+       gradientTransform="matrix(218.63,0,0,-141.18,-585552.64,283366.89)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#bcbeff"
+         id="stop24" />
+      <stop
+         offset="0.17"
+         stop-color="#b5b8fc"
+         id="stop25" />
+      <stop
+         offset="0.4"
+         stop-color="#a3a7f5"
+         id="stop26" />
+      <stop
+         offset="0.66"
+         stop-color="#868ce9"
+         id="stop27" />
+      <stop
+         offset="0.95"
+         stop-color="#5d67d9"
+         id="stop28" />
+      <stop
+         offset="1"
+         stop-color="#5761d7"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       id="Unbenannter_Verlauf_27-2"
+       x1="2681.75"
+       y1="2003.62"
+       x2="2682.21"
+       y2="2003.62"
+       gradientTransform="matrix(218.63,0,0,-141.18,-585552.64,283366.89)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-2"
+       x1="2681.6201"
+       y1="2005.0601"
+       x2="2682.1299"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253238.25)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-3"
+       x1="2681.55"
+       y1="2005.0601"
+       x2="2682.48"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253238.25)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-3"
+       x1="2681.6201"
+       y1="2003.62"
+       x2="2682.0901"
+       y2="2003.62"
+       gradientTransform="matrix(218.63,0,0,-141.18,-585552.64,283335.21)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-4"
+       x1="2681.6201"
+       y1="2003.62"
+       x2="2682.0901"
+       y2="2003.62"
+       gradientTransform="matrix(218.63,0,0,-141.18,-585552.64,283335.21)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-4"
+       x1="2681.5"
+       y1="2005.0601"
+       x2="2682.01"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253211.68)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-5"
+       x1="2681.4299"
+       y1="2005.0601"
+       x2="2682.3501"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253211.68)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-5"
+       x1="2681.5"
+       y1="2003.62"
+       x2="2681.96"
+       y2="2003.62"
+       gradientTransform="matrix(218.62,0,0,-141.19,-585536.52,283309.37)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-6"
+       x1="2681.5"
+       y1="2003.62"
+       x2="2681.96"
+       y2="2003.62"
+       gradientTransform="matrix(218.62,0,0,-141.19,-585536.52,283309.37)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-6"
+       x1="2681.3799"
+       y1="2005.0601"
+       x2="2681.8899"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.07,-585551.89,253193.5)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-7"
+       x1="2681.3"
+       y1="2005.0601"
+       x2="2682.23"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.07,-585551.89,253193.5)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-7"
+       x1="2681.3799"
+       y1="2003.62"
+       x2="2681.8401"
+       y2="2003.62"
+       gradientTransform="matrix(218.62,0,0,-141.19,-585536.52,283285.72)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-8"
+       x1="2681.3799"
+       y1="2003.62"
+       x2="2681.8401"
+       y2="2003.62"
+       gradientTransform="matrix(218.62,0,0,-141.19,-585536.52,283285.72)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       id="Unbenannter_Verlauf_26-8"
+       x1="2681.25"
+       y1="2005.0601"
+       x2="2681.76"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253144.69)"
+       xlink:href="#Unbenannter_Verlauf_26" />
+    <linearGradient
+       id="Unbenannter_Verlauf_27-9"
+       x1="2681.1799"
+       y1="2005.0601"
+       x2="2682.1001"
+       y2="2005.0601"
+       gradientTransform="matrix(218.62,0,0,-126.06,-585551.89,253144.69)"
+       xlink:href="#Unbenannter_Verlauf_27" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Unbenannter_Verlauf_27"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(269.41,0,0,-93.34,-722375.66,188202.31)"
+       x1="2684.49"
+       y1="2009.79"
+       x2="2685.77"
+       y2="2009.79" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Unbenannter_Verlauf_11"
+       id="linearGradient32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(207.22,0,0,-119.64,-554823.19,240528.28)"
+       x1="2682.05"
+       y1="2005.79"
+       x2="2683.05"
+       y2="2005.79" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Unbenannter_Verlauf_26"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(218.63,0,0,-141.18,-585552.64,283366.89)"
+       x1="2681.75"
+       y1="2003.62"
+       x2="2682.21"
+       y2="2003.62" />
+  </defs>
+  <g
+     id="Ebene_2"
+     data-name="Ebene 2"
+     transform="translate(-578.42999,-60.48999)">
+    <g
+       id="Ebene_1-2"
+       data-name="Ebene 1">
+      <g
+         id="Gruppe_499"
+         data-name="Gruppe 499" />
+      <circle
+         id="Ellipse_5"
+         data-name="Ellipse 5"
+         class="cls-5"
+         cx="1019.88"
+         cy="501.94"
+         r="441.45001"
+         style="fill:url(#Unbenannter_Verlauf_16)" />
+      <g
+         id="Gruppe_509"
+         data-name="Gruppe 509">
+        <g
+           id="Gruppe_500"
+           data-name="Gruppe 500">
+          <path
+             id="Pfad_1431"
+             data-name="Pfad 1431"
+             class="cls-6"
+             d="m 1038.27,495.34 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.83,-1.45 17.53,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.67,2.11 -0.84,1.45 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.55,4.55 0 0 1 -2,4.17 3.66,3.66 0 0 1 -1.78,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1432"
+             data-name="Pfad 1432"
+             class="cls-6"
+             d="m 1031.45,499.26 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.83,-1.45 17.53,10.15 a 2.44,2.44 0 0 0 3.45,0 2.48,2.48 0 0 0 0.63,-2.33 v -4.27 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.84,1.44 -3.66,-2.15 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.53,4.53 0 0 1 -2,4.17 3.46,3.46 0 0 1 -1.78,0.51 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1433"
+             data-name="Pfad 1433"
+             class="cls-6"
+             d="m 1024.63,503.19 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.13 0.83,-1.44 17.53,10.12 a 2.45,2.45 0 0 0 3.46,0 2.47,2.47 0 0 0 0.62,-2.32 v -4.22 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.84,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.55,4.55 0 0 1 -2,4.17 3.66,3.66 0 0 1 -1.78,0.43 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1434"
+             data-name="Pfad 1434"
+             class="cls-6"
+             d="m 1017.82,507.11 a 5.54,5.54 0 0 1 -2.8,-0.85 l -17.53,-10.11 0.83,-1.45 17.53,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.83,1.45 -3.66,-2.12 a 2.45,2.45 0 0 0 -4.08,2.35 v 4.23 a 4.53,4.53 0 0 1 -2,4.18 3.66,3.66 0 0 1 -1.77,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1435"
+             data-name="Pfad 1435"
+             class="cls-6"
+             d="m 1011,511 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.83,-1.45 17.5,10.15 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.83,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -3.45,0 2.48,2.48 0 0 0 -0.63,2.33 v 4.23 a 4.5,4.5 0 0 1 -2,4.17 3.56,3.56 0 0 1 -1.74,0.46 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1436"
+             data-name="Pfad 1436"
+             class="cls-6"
+             d="m 1004.18,515 a 5.77,5.77 0 0 1 -2.8,-0.85 L 983.85,504 l 0.83,-1.45 17.53,10.13 a 2.44,2.44 0 0 0 4.07,-2.36 v -4.22 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.83,1.45 -3.67,-2.12 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.52,4.52 0 0 1 -2,4.17 3.57,3.57 0 0 1 -1.77,0.51 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1437"
+             data-name="Pfad 1437"
+             class="cls-6"
+             d="m 997.36,518.88 a 5.67,5.67 0 0 1 -2.8,-0.85 L 977,507.91 l 0.83,-1.45 17.53,10.13 a 2.45,2.45 0 0 0 4.08,-2.35 V 510 a 4.05,4.05 0 0 1 6.57,-3.8 l 3.67,2.11 -0.84,1.45 -3.66,-2.12 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.53,4.53 0 0 1 -2,4.17 3.57,3.57 0 0 1 -1.75,0.49 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1438"
+             data-name="Pfad 1438"
+             class="cls-6"
+             d="m 990.54,522.8 a 5.69,5.69 0 0 1 -2.8,-0.84 l -17.53,-10.13 0.84,-1.44 17.53,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.83,1.45 -3.67,-2.12 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.53,4.53 0 0 1 -2,4.17 3.54,3.54 0 0 1 -1.78,0.48 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1439"
+             data-name="Pfad 1439"
+             class="cls-6"
+             d="m 983.72,526.72 a 5.62,5.62 0 0 1 -2.79,-0.84 l -17.53,-10.12 0.83,-1.45 17.53,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.07,4.07 0 0 1 6.58,-3.8 l 3.66,2.12 -0.83,1.45 -3.66,-2.12 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.53,4.53 0 0 1 -2,4.17 3.5,3.5 0 0 1 -1.79,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1440"
+             data-name="Pfad 1440"
+             class="cls-6"
+             d="m 976.91,530.64 a 5.62,5.62 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.83,-1.45 17.53,10.12 A 2.44,2.44 0 0 0 979,526 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.83,1.45 -3.67,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 V 526 a 4.55,4.55 0 0 1 -2,4.17 3.5,3.5 0 0 1 -1.76,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1441"
+             data-name="Pfad 1441"
+             class="cls-6"
+             d="m 970.09,534.56 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.83,-1.45 17.53,10.13 a 2.44,2.44 0 0 0 4.07,-2.36 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.83,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.55,4.55 0 0 1 -2,4.17 3.56,3.56 0 0 1 -1.78,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1442"
+             data-name="Pfad 1442"
+             class="cls-6"
+             d="m 963.27,538.49 a 5.67,5.67 0 0 1 -2.8,-0.85 l -17.53,-10.12 0.83,-1.44 17.53,10.12 a 2.45,2.45 0 0 0 4.08,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.57,-3.8 l 3.67,2.12 -0.84,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.54,4.54 0 0 1 -2,4.17 3.66,3.66 0 0 1 -1.78,0.47 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1443"
+             data-name="Pfad 1443"
+             class="cls-6"
+             d="m 956.45,542.41 a 5.57,5.57 0 0 1 -2.8,-0.85 L 936.12,531.44 937,530 l 17.53,10.12 a 2.45,2.45 0 0 0 4.08,-2.35 v -4.23 a 4.05,4.05 0 0 1 6.57,-3.8 l 3.66,2.11 -0.84,1.45 -3.66,-2.12 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.53,4.53 0 0 1 -2,4.17 3.57,3.57 0 0 1 -1.82,0.48 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1444"
+             data-name="Pfad 1444"
+             class="cls-6"
+             d="m 949.63,546.33 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.84,-1.45 17.53,10.08 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.83,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.08,2.35 v 4.23 a 4.54,4.54 0 0 1 -2,4.17 3.6,3.6 0 0 1 -1.78,0.51 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1445"
+             data-name="Pfad 1445"
+             class="cls-6"
+             d="m 942.81,550.25 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.84,-1.45 17.53,10.16 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.22 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.84,1.45 -3.66,-2.19 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.55,4.55 0 0 1 -2,4.18 3.59,3.59 0 0 1 -1.78,0.49 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1446"
+             data-name="Pfad 1446"
+             class="cls-6"
+             d="m 936,554.18 a 5.54,5.54 0 0 1 -2.8,-0.85 l -17.53,-10.12 0.83,-1.44 17.5,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.24 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.83,1.44 -3.63,-2.06 a 2.45,2.45 0 0 0 -4.08,2.35 v 4.23 a 4.52,4.52 0 0 1 -2,4.17 3.57,3.57 0 0 1 -1.77,0.43 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1447"
+             data-name="Pfad 1447"
+             class="cls-6"
+             d="m 929.18,558.1 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.13 0.83,-1.44 17.53,10.12 a 2.44,2.44 0 0 0 4.07,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.11 -0.83,1.45 -3.69,-2.12 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.53,4.53 0 0 1 -2,4.17 3.57,3.57 0 0 1 -1.75,0.48 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1448"
+             data-name="Pfad 1448"
+             class="cls-6"
+             d="m 922.36,562 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.56,-10.1 0.83,-1.45 17.53,10.12 a 2.45,2.45 0 0 0 4.08,-2.35 v -4.23 a 4.06,4.06 0 0 1 6.57,-3.8 l 3.66,2.12 -0.83,1.45 -3.66,-2.12 a 2.44,2.44 0 0 0 -4.07,2.36 v 4.22 a 4.53,4.53 0 0 1 -2,4.17 3.46,3.46 0 0 1 -1.75,0.45 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1449"
+             data-name="Pfad 1449"
+             class="cls-6"
+             d="m 915.54,565.94 a 5.65,5.65 0 0 1 -2.8,-0.84 l -17.53,-10.1 0.83,-1.45 17.53,10.12 a 2.43,2.43 0 0 0 3.45,0 2.45,2.45 0 0 0 0.63,-2.32 v -4.23 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.84,1.44 -3.66,-2.11 a 2.44,2.44 0 0 0 -4.07,2.35 v 4.23 a 4.54,4.54 0 0 1 -2,4.17 3.56,3.56 0 0 1 -1.78,0.42 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1450"
+             data-name="Pfad 1450"
+             class="cls-6"
+             d="m 908.72,569.86 a 5.69,5.69 0 0 1 -2.8,-0.84 l -17.53,-10.12 0.84,-1.45 17.53,10.13 a 2.44,2.44 0 0 0 4.07,-2.36 V 561 a 4.06,4.06 0 0 1 6.58,-3.8 l 3.66,2.12 -0.84,1.44 -3.66,-2.11 A 2.44,2.44 0 0 0 912.5,561 v 4.23 a 4.53,4.53 0 0 1 -2,4.17 3.46,3.46 0 0 1 -1.78,0.46 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+        <g
+           id="Gruppe_501"
+           data-name="Gruppe 501">
+          <path
+             id="Pfad_1451"
+             data-name="Pfad 1451"
+             class="cls-6"
+             d="m 1066.21,495.66 a 3.5,3.5 0 0 1 -1.81,-0.47 4.5,4.5 0 0 1 -2,-4.17 v -4.23 a 2.45,2.45 0 0 0 -4.08,-2.35 l -3.66,2.12 -0.84,-1.45 3.67,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.2 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.11 0.83,1.44 -17.5,10.14 a 5.62,5.62 0 0 1 -2.79,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1452"
+             data-name="Pfad 1452"
+             class="cls-6"
+             d="m 1073,499.58 a 3.46,3.46 0 0 1 -1.8,-0.47 4.52,4.52 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -1.75,-3 2.47,2.47 0 0 0 -2.33,0.62 l -3.66,2.12 -0.83,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.22 a 2.44,2.44 0 0 0 4.07,2.36 l 17.53,-10.12 0.83,1.44 -17.53,10.12 a 5.65,5.65 0 0 1 -2.77,0.87 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1453"
+             data-name="Pfad 1453"
+             class="cls-6"
+             d="m 1079.84,503.51 a 3.66,3.66 0 0 1 -1.8,-0.47 4.55,4.55 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.44 3.67,-2.12 a 4.05,4.05 0 0 1 6.57,3.8 v 4.23 a 2.45,2.45 0 0 0 4.08,2.35 l 17.53,-10.12 0.83,1.44 -17.53,10.12 a 5.57,5.57 0 0 1 -2.78,0.85 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1454"
+             data-name="Pfad 1454"
+             class="cls-6"
+             d="m 1086.66,507.43 a 3.56,3.56 0 0 1 -1.8,-0.47 4.54,4.54 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.83,-1.44 3.66,-2.12 a 4.07,4.07 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 l 17.55,-10.14 0.83,1.45 -17.53,10.12 a 5.65,5.65 0 0 1 -2.8,0.86 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1455"
+             data-name="Pfad 1455"
+             class="cls-6"
+             d="m 1093.48,511.35 a 3.46,3.46 0 0 1 -1.8,-0.47 4.53,4.53 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.12 -0.84,-1.45 3.67,-2.11 a 4.05,4.05 0 0 1 6.57,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 L 1113,499 l 0.83,1.44 -17.53,10.12 a 5.62,5.62 0 0 1 -2.82,0.79 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1456"
+             data-name="Pfad 1456"
+             class="cls-6"
+             d="m 1100.3,515.27 a 3.52,3.52 0 0 1 -1.8,-0.46 4.56,4.56 0 0 1 -2,-4.18 v -4.22 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.12 0.84,1.44 -17.53,10.13 a 5.57,5.57 0 0 1 -2.78,0.83 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1457"
+             data-name="Pfad 1457"
+             class="cls-6"
+             d="m 1107.12,519.2 a 3.61,3.61 0 0 1 -1.8,-0.47 4.53,4.53 0 0 1 -2,-4.18 v -4.22 a 3,3 0 0 0 -1.14,-2.73 3,3 0 0 0 -2.93,0.38 l -3.66,2.11 -0.84,-1.44 3.66,-2.12 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.12 0.84,1.44 -17.53,10.13 a 5.69,5.69 0 0 1 -2.78,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1458"
+             data-name="Pfad 1458"
+             class="cls-6"
+             d="m 1113.93,523.12 a 3.66,3.66 0 0 1 -1.8,-0.47 4.52,4.52 0 0 1 -2,-4.17 v -4.23 a 2.45,2.45 0 0 0 -1.75,-3 2.43,2.43 0 0 0 -2.32,0.63 l -3.67,2.11 -0.83,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.12 0.84,1.45 -17.53,10.12 a 5.69,5.69 0 0 1 -2.78,0.86 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1459"
+             data-name="Pfad 1459"
+             class="cls-6"
+             d="m 1120.75,527 a 3.56,3.56 0 0 1 -1.8,-0.47 4.54,4.54 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.83,-1.44 3.66,-2.11 a 4.05,4.05 0 0 1 6.57,3.8 v 4.23 a 2.44,2.44 0 0 0 4.08,2.35 l 17.53,-10.13 0.83,1.45 -17.53,10.12 a 5.65,5.65 0 0 1 -2.78,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1460"
+             data-name="Pfad 1460"
+             class="cls-6"
+             d="m 1127.57,531 a 3.46,3.46 0 0 1 -1.8,-0.47 4.53,4.53 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.12 -0.84,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.22 a 2.45,2.45 0 0 0 1.75,3 2.48,2.48 0 0 0 2.33,-0.63 l 17.52,-10.11 0.84,1.44 -17.53,10.12 a 5.65,5.65 0 0 1 -2.78,0.82 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1461"
+             data-name="Pfad 1461"
+             class="cls-6"
+             d="m 1134.39,534.89 a 3.66,3.66 0 0 1 -1.8,-0.47 4.55,4.55 0 0 1 -2,-4.17 V 526 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.45 3.67,-2.11 a 4.05,4.05 0 0 1 6.57,3.8 v 4.23 a 2.44,2.44 0 0 0 4.08,2.35 l 17.53,-10.12 0.83,1.45 -17.53,10.12 a 5.65,5.65 0 0 1 -2.78,0.86 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1462"
+             data-name="Pfad 1462"
+             class="cls-6"
+             d="m 1141.21,538.81 a 3.64,3.64 0 0 1 -1.8,-0.47 4.55,4.55 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.44 3.66,-2.12 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.45,2.45 0 0 0 4.08,2.35 l 17.53,-10.12 0.83,1.45 L 1144,538 a 5.69,5.69 0 0 1 -2.79,0.81 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1463"
+             data-name="Pfad 1463"
+             class="cls-6"
+             d="m 1148,542.73 a 3.47,3.47 0 0 1 -1.81,-0.47 4.53,4.53 0 0 1 -2,-4.17 v -4.22 a 2.44,2.44 0 0 0 -4.07,-2.36 l -3.66,2.12 -0.84,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.22 a 2.44,2.44 0 0 0 4.08,2.35 l 17.53,-10.11 0.83,1.44 -17.53,10.12 a 5.62,5.62 0 0 1 -2.77,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1464"
+             data-name="Pfad 1464"
+             class="cls-6"
+             d="m 1154.84,546.65 a 3.46,3.46 0 0 1 -1.8,-0.47 4.5,4.5 0 0 1 -2,-4.17 v -4.23 a 2.45,2.45 0 0 0 -4.08,-2.35 l -3.66,2.11 -0.83,-1.44 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 V 542 a 2.44,2.44 0 0 0 4.07,2.36 l 17.53,-10.13 0.84,1.45 -17.53,10.12 a 5.69,5.69 0 0 1 -2.78,0.85 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1465"
+             data-name="Pfad 1465"
+             class="cls-6"
+             d="m 1161.66,550.57 a 3.46,3.46 0 0 1 -1.8,-0.47 4.53,4.53 0 0 1 -2,-4.17 v -4.22 a 2.44,2.44 0 0 0 -4.07,-2.36 l -3.66,2.12 -0.84,-1.45 3.67,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.12 0.83,1.44 -17.53,10.13 a 5.64,5.64 0 0 1 -2.78,0.83 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1466"
+             data-name="Pfad 1466"
+             class="cls-6"
+             d="m 1168.48,554.49 a 3.55,3.55 0 0 1 -1.8,-0.46 4.56,4.56 0 0 1 -2,-4.18 v -4.22 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.44 3.66,-2.12 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.08,2.35 l 17.57,-10.12 0.83,1.44 -17.53,10.12 a 5.55,5.55 0 0 1 -2.82,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1467"
+             data-name="Pfad 1467"
+             class="cls-6"
+             d="m 1175.3,558.42 a 3.66,3.66 0 0 1 -1.8,-0.47 4.54,4.54 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.84,-1.44 3.66,-2.12 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.44,2.44 0 0 0 4.08,2.35 l 17.55,-10.13 0.83,1.45 -17.53,10.12 a 5.65,5.65 0 0 1 -2.8,0.85 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1468"
+             data-name="Pfad 1468"
+             class="cls-6"
+             d="m 1182.12,562.34 a 3.53,3.53 0 0 1 -1.8,-0.47 4.54,4.54 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.67,2.11 -0.83,-1.44 3.66,-2.11 a 4.05,4.05 0 0 1 6.58,3.8 v 4.22 a 2.44,2.44 0 0 0 4.08,2.35 l 17.53,-10.11 0.83,1.44 -17.53,10.12 a 5.69,5.69 0 0 1 -2.78,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1469"
+             data-name="Pfad 1469"
+             class="cls-6"
+             d="m 1188.93,566.26 a 3.46,3.46 0 0 1 -1.8,-0.47 4.5,4.5 0 0 1 -2,-4.17 v -4.23 a 2.44,2.44 0 0 0 -4.08,-2.35 l -3.66,2.12 -0.83,-1.45 3.65,-2.11 a 4.07,4.07 0 0 1 6.59,3.8 v 4.22 a 2.44,2.44 0 0 0 4.07,2.35 l 17.53,-10.12 0.83,1.45 -17.53,10.12 a 5.62,5.62 0 0 1 -2.77,0.84 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1470"
+             data-name="Pfad 1470"
+             class="cls-6"
+             d="m 1195.75,570.19 a 3.66,3.66 0 0 1 -1.8,-0.47 4.56,4.56 0 0 1 -2,-4.18 v -4.22 a 2.44,2.44 0 0 0 -4.07,-2.35 l -3.66,2.11 -0.83,-1.45 3.66,-2.11 a 4.06,4.06 0 0 1 6.58,3.8 v 4.23 a 2.43,2.43 0 0 0 1.74,3 2.47,2.47 0 0 0 2.33,-0.62 l 17.53,-10.12 0.83,1.44 -17.53,10.12 a 5.67,5.67 0 0 1 -2.78,0.82 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+        <g
+           id="Gruppe_506"
+           data-name="Gruppe 506">
+          <g
+             id="Gruppe_502"
+             data-name="Gruppe 502">
+            <path
+               id="Pfad_1471"
+               data-name="Pfad 1471"
+               class="cls-7"
+               d="M 1052.3,672.91 917.59,595.14 1052.29,517.37 1187,595.14 Z"
+               transform="translate(-34.38,-49.43)"
+               style="fill:url(#Unbenannter_Verlauf_3)" />
+            <path
+               id="Pfad_1472"
+               data-name="Pfad 1472"
+               class="cls-8"
+               d="m 1187,561.87 v 15.57 l -134.7,77.77 -134.71,-77.77 v -15.57 z"
+               transform="translate(-34.38,-49.43)"
+               style="fill:url(#linearGradient31)" />
+            <path
+               id="Pfad_1473"
+               data-name="Pfad 1473"
+               class="cls-9"
+               d="M 1052.3,639.65 917.59,561.87 1052.29,484.1 1187,561.87 Z"
+               transform="translate(-34.38,-49.43)" />
+            <path
+               id="Pfad_1474"
+               data-name="Pfad 1474"
+               class="cls-10"
+               d="M 1052.3,637.83 919.16,561 l -1.57,0.91 134.71,77.78 134.7,-77.82 -1.57,-0.91 z"
+               transform="translate(-34.38,-49.43)" />
+          </g>
+          <g
+             id="Gruppe_505"
+             data-name="Gruppe 505">
+            <path
+               id="Pfad_1475"
+               data-name="Pfad 1475"
+               class="cls-11"
+               d="m 1052.3,621.71 -103.61,-59.82 103.6,-59.82 103.61,59.82 z"
+               transform="translate(-34.38,-49.43)" />
+            <g
+               id="Gruppe_504"
+               data-name="Gruppe 504">
+              <path
+                 id="Pfad_1476"
+                 data-name="Pfad 1476"
+                 class="cls-12"
+                 d="m 1052.3,621.71 -103.62,-59.82 103.61,-59.82 103.61,59.82 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#linearGradient32)" />
+              <g
+                 id="Gruppe_503"
+                 data-name="Gruppe 503">
+                <path
+                   id="Pfad_1477"
+                   data-name="Pfad 1477"
+                   class="cls-13"
+                   d="m 1052.29,487 103.61,59.82 v 15.08 l -103.61,-59.82 z"
+                   transform="translate(-34.38,-49.43)"
+                   style="fill:url(#Unbenannter_Verlauf_11-2)" />
+                <path
+                   id="Pfad_1478"
+                   data-name="Pfad 1478"
+                   class="cls-14"
+                   d="M 1052.3,502.07 948.68,561.89 V 546.81 L 1052.29,487 Z"
+                   transform="translate(-34.38,-49.43)"
+                   style="fill:url(#Unbenannter_Verlauf_11-3)" />
+                <path
+                   id="Pfad_1479"
+                   data-name="Pfad 1479"
+                   class="cls-15"
+                   d="M 1052.3,606.63 948.68,546.81 1052.29,487 1155.9,546.82 Z"
+                   transform="translate(-34.38,-49.43)"
+                   style="fill:url(#Unbenannter_Verlauf_11-4)" />
+                <path
+                   id="Pfad_1480"
+                   data-name="Pfad 1480"
+                   class="cls-16"
+                   d="m 1052.29,570.71 -41.4,-23.9 41.4,-23.9 41.4,23.9 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1481"
+                   data-name="Pfad 1481"
+                   class="cls-16"
+                   d="m 1052.29,525.1 39.5,22.8 1.9,-1.1 -41.4,-23.9 -41.4,23.9 1.9,1.1 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1482"
+                   data-name="Pfad 1482"
+                   class="cls-17"
+                   d="m 1052.3,606.63 v 15.08 l 103.6,-59.82 v -15.08 z"
+                   transform="translate(-34.38,-49.43)"
+                   style="fill:url(#Unbenannter_Verlauf_11-5)" />
+              </g>
+              <path
+                 id="Pfad_1483"
+                 data-name="Pfad 1483"
+                 class="cls-18"
+                 d="m 948.68,546.81 v 15.08 l 103.62,59.82 v -15.08 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_11-6)" />
+            </g>
+            <path
+               id="Pfad_1484"
+               data-name="Pfad 1484"
+               class="cls-19"
+               d="m 1052.3,605 -102.19,-59 -1.43,0.83 103.62,59.81 103.6,-59.81 -1.42,-0.83 z"
+               transform="translate(-34.38,-49.43)" />
+          </g>
+        </g>
+        <g
+           id="Gruppe_507"
+           data-name="Gruppe 507">
+          <path
+             id="Pfad_1485"
+             data-name="Pfad 1485"
+             class="cls-6"
+             d="m 1085.7,674 -17.53,-10.12 a 12.51,12.51 0 0 1 -5.74,-9.94 v -4.24 a 10.86,10.86 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.83,-1.44 3.67,2.11 a 12.53,12.53 0 0 1 5.74,10 v 4.22 a 11,11 0 0 0 4.9,8.5 l 17.53,10.13 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1486"
+             data-name="Pfad 1486"
+             class="cls-6"
+             d="M 1092.52,670.07 1075,659.94 a 12.49,12.49 0 0 1 -5.75,-9.94 v -4.23 a 10.87,10.87 0 0 0 -4.9,-8.5 l -3.66,-2.11 0.83,-1.45 3.66,2.11 a 12.56,12.56 0 0 1 5.75,9.95 V 650 a 11,11 0 0 0 4.9,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1487"
+             data-name="Pfad 1487"
+             class="cls-6"
+             d="M 1099.34,666.14 1081.81,656 a 12.51,12.51 0 0 1 -5.75,-9.95 v -4.23 a 11.06,11.06 0 0 0 -4.9,-8.5 l -3.67,-2.11 0.84,-1.45 3.66,2.11 a 12.53,12.53 0 0 1 5.74,10 v 4.23 a 11,11 0 0 0 4.91,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1488"
+             data-name="Pfad 1488"
+             class="cls-6"
+             d="m 1106.15,662.2 -17.53,-10.12 a 12.51,12.51 0 0 1 -5.74,-9.94 v -4.23 a 11,11 0 0 0 -4.9,-8.5 l -3.66,-2.11 0.83,-1.45 3.66,2.11 a 12.56,12.56 0 0 1 5.75,9.95 v 4.23 a 11,11 0 0 0 4.9,8.5 l 17.54,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1489"
+             data-name="Pfad 1489"
+             class="cls-6"
+             d="m 1113,658.28 -17.53,-10.12 a 12.53,12.53 0 0 1 -5.74,-9.95 V 634 a 11,11 0 0 0 -4.9,-8.5 l -3.67,-2.12 0.84,-1.45 3.66,2.12 a 12.51,12.51 0 0 1 5.74,9.94 v 4.23 a 10.87,10.87 0 0 0 4.9,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1490"
+             data-name="Pfad 1490"
+             class="cls-6"
+             d="m 1119.79,654.35 -17.53,-10.12 a 12.53,12.53 0 0 1 -5.74,-10 v -4.22 a 11,11 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.84,-1.45 3.66,2.12 a 12.51,12.51 0 0 1 5.74,9.94 v 4.23 a 11,11 0 0 0 4.91,8.5 l 17.52,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1491"
+             data-name="Pfad 1491"
+             class="cls-6"
+             d="m 1126.61,650.42 -17.53,-10.12 a 12.53,12.53 0 0 1 -5.74,-9.95 v -4.22 a 10.9,10.9 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.83,-1.44 3.66,2.11 a 12.51,12.51 0 0 1 5.75,10 v 4.23 a 11,11 0 0 0 4.9,8.5 l 17.54,10.09 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1492"
+             data-name="Pfad 1492"
+             class="cls-6"
+             d="m 1133.43,646.49 -17.53,-10.12 a 12.54,12.54 0 0 1 -5.75,-10 v -4.17 a 11,11 0 0 0 -4.9,-8.5 l -3.66,-2.12 0.83,-1.44 3.67,2.11 a 12.53,12.53 0 0 1 5.74,10 v 4.22 a 10.84,10.84 0 0 0 4.91,8.5 l 17.53,10.13 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1493"
+             data-name="Pfad 1493"
+             class="cls-6"
+             d="m 1140.25,642.56 -17.53,-10.12 a 12.49,12.49 0 0 1 -5.75,-9.94 v -4.23 a 11,11 0 0 0 -4.9,-8.5 l -3.67,-2.11 0.84,-1.45 3.66,2.11 a 12.53,12.53 0 0 1 5.74,9.95 v 4.23 a 10.86,10.86 0 0 0 4.91,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1494"
+             data-name="Pfad 1494"
+             class="cls-6"
+             d="m 1147.07,638.63 -17.53,-10.12 a 12.49,12.49 0 0 1 -5.75,-10 v -4.22 a 11,11 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.84,-1.44 3.66,2.11 a 12.53,12.53 0 0 1 5.74,10 v 4.23 a 10.9,10.9 0 0 0 4.91,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1495"
+             data-name="Pfad 1495"
+             class="cls-6"
+             d="m 1153.88,634.7 -17.53,-10.12 a 12.51,12.51 0 0 1 -5.74,-10 v -4.22 a 11,11 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.84,-1.44 3.66,2.11 a 12.53,12.53 0 0 1 5.74,9.95 v 4.22 a 11,11 0 0 0 4.91,8.5 l 17.53,10.13 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1496"
+             data-name="Pfad 1496"
+             class="cls-6"
+             d="m 1160.7,630.77 -17.53,-10.12 a 12.56,12.56 0 0 1 -5.75,-9.95 v -4.22 a 10.85,10.85 0 0 0 -4.9,-8.5 l -3.66,-2.12 0.84,-1.44 3.66,2.11 a 12.53,12.53 0 0 1 5.74,10 v 4.23 a 11,11 0 0 0 4.91,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1497"
+             data-name="Pfad 1497"
+             class="cls-6"
+             d="M 1167.52,626.85 1150,616.72 a 12.54,12.54 0 0 1 -5.75,-9.94 v -4.23 a 11,11 0 0 0 -4.9,-8.5 l -3.66,-2.11 0.83,-1.45 3.66,2.12 a 12.49,12.49 0 0 1 5.74,9.94 v 4.23 a 11.07,11.07 0 0 0 4.91,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1498"
+             data-name="Pfad 1498"
+             class="cls-6"
+             d="m 1174.34,622.92 -17.53,-10.12 a 12.54,12.54 0 0 1 -5.75,-9.95 v -4.23 a 11,11 0 0 0 -4.9,-8.5 l -3.66,-2.12 0.83,-1.45 3.66,2.12 a 12.53,12.53 0 0 1 5.75,9.94 v 4.23 a 11,11 0 0 0 4.9,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1499"
+             data-name="Pfad 1499"
+             class="cls-6"
+             d="m 1181.16,619 -17.53,-10.12 a 12.51,12.51 0 0 1 -5.75,-10 v -4.23 a 11,11 0 0 0 -4.91,-8.5 l -3.66,-2.11 0.84,-1.44 3.66,2.11 a 12.54,12.54 0 0 1 5.75,9.94 v 4.23 a 11,11 0 0 0 4.9,8.5 l 17.54,10.16 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1500"
+             data-name="Pfad 1500"
+             class="cls-6"
+             d="m 1188,615.06 -17.53,-10.12 a 12.53,12.53 0 0 1 -5.74,-10 v -4.22 a 11,11 0 0 0 -4.91,-8.5 l -3.66,-2.12 0.84,-1.45 3.66,2.12 a 12.51,12.51 0 0 1 5.74,9.94 V 595 a 10.87,10.87 0 0 0 4.9,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1501"
+             data-name="Pfad 1501"
+             class="cls-6"
+             d="M 1194.79,611.13 1177.26,601 a 12.53,12.53 0 0 1 -5.74,-10 v -4.23 a 10.87,10.87 0 0 0 -4.91,-8.5 l -3.66,-2.11 0.83,-1.44 3.66,2.11 a 12.51,12.51 0 0 1 5.75,10 v 4.22 a 11,11 0 0 0 4.91,8.5 l 17.53,10.13 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1502"
+             data-name="Pfad 1502"
+             class="cls-6"
+             d="m 1201.61,607.2 -17.53,-10.12 a 12.53,12.53 0 0 1 -5.74,-10 v -4.18 a 11.07,11.07 0 0 0 -4.91,-8.5 l -3.66,-2.11 0.83,-1.44 3.66,2.11 a 12.51,12.51 0 0 1 5.75,9.95 v 4.23 a 11,11 0 0 0 4.91,8.5 l 17.52,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1503"
+             data-name="Pfad 1503"
+             class="cls-6"
+             d="m 1208.43,603.27 -17.53,-10.12 a 12.56,12.56 0 0 1 -5.75,-9.95 V 579 a 10.86,10.86 0 0 0 -4.9,-8.5 l -3.66,-2.12 0.83,-1.44 3.66,2.11 a 12.56,12.56 0 0 1 5.75,10 v 4.23 a 11,11 0 0 0 4.9,8.5 l 17.53,10.12 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1504"
+             data-name="Pfad 1504"
+             class="cls-6"
+             d="m 1215.25,599.34 -17.53,-10.12 a 12.49,12.49 0 0 1 -5.75,-10 V 575 a 11,11 0 0 0 -4.9,-8.5 l -3.66,-2.11 0.83,-1.45 3.67,2.11 a 12.53,12.53 0 0 1 5.74,9.95 v 4.23 a 11.08,11.08 0 0 0 4.9,8.5 l 17.53,10.11 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+        <g
+           id="Gruppe_508"
+           data-name="Gruppe 508">
+          <path
+             id="Pfad_1505"
+             data-name="Pfad 1505"
+             class="cls-6"
+             d="m 1018.42,674 -0.84,-1.44 17.53,-10.12 a 11,11 0 0 0 4.91,-8.5 v -4.24 a 12.53,12.53 0 0 1 5.74,-10 l 3.66,-2.11 0.84,1.45 -3.66,2.11 a 11,11 0 0 0 -4.91,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1506"
+             data-name="Pfad 1506"
+             class="cls-6"
+             d="m 1011.59,670.07 -0.83,-1.45 17.53,-10.12 a 11.07,11.07 0 0 0 4.91,-8.5 v -4.23 a 12.53,12.53 0 0 1 5.74,-9.95 l 3.66,-2.11 0.83,1.45 -3.66,2.11 a 10.87,10.87 0 0 0 -4.9,8.5 V 650 a 12.54,12.54 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1507"
+             data-name="Pfad 1507"
+             class="cls-6"
+             d="m 1004.78,666.14 -0.84,-1.45 17.53,-10.12 a 11,11 0 0 0 4.91,-8.5 v -4.23 a 12.51,12.51 0 0 1 5.75,-10 l 3.66,-2.11 0.83,1.45 -3.66,2.11 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.52,12.52 0 0 1 -5.75,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1508"
+             data-name="Pfad 1508"
+             class="cls-6"
+             d="m 998,662.21 -0.84,-1.45 17.53,-10.12 a 11,11 0 0 0 4.9,-8.5 v -4.23 a 12.54,12.54 0 0 1 5.75,-9.95 l 3.66,-2.11 0.83,1.45 -3.66,2.11 a 11.05,11.05 0 0 0 -4.91,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.74,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1509"
+             data-name="Pfad 1509"
+             class="cls-6"
+             d="m 991.14,658.28 -0.84,-1.45 17.53,-10.12 a 10.84,10.84 0 0 0 4.91,-8.5 V 634 a 12.49,12.49 0 0 1 5.75,-10 l 3.66,-2.12 0.83,1.45 -3.66,2.12 a 11,11 0 0 0 -4.91,8.5 v 4.22 a 12.53,12.53 0 0 1 -5.74,9.95 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1510"
+             data-name="Pfad 1510"
+             class="cls-6"
+             d="m 984.32,654.35 -0.83,-1.45 17.51,-10.12 a 11,11 0 0 0 4.9,-8.5 v -4.22 a 12.51,12.51 0 0 1 5.75,-9.95 l 3.66,-2.12 0.84,1.45 -3.67,2.11 a 11.07,11.07 0 0 0 -4.91,8.5 v 4.23 a 12.49,12.49 0 0 1 -5.74,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1511"
+             data-name="Pfad 1511"
+             class="cls-6"
+             d="m 977.5,650.42 -0.83,-1.44 17.53,-10.13 a 11,11 0 0 0 4.9,-8.5 v -4.22 a 12.51,12.51 0 0 1 5.75,-10 l 3.66,-2.11 0.83,1.44 -3.66,2.11 a 10.87,10.87 0 0 0 -4.91,8.5 v 4.23 a 12.53,12.53 0 0 1 -5.77,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1512"
+             data-name="Pfad 1512"
+             class="cls-6"
+             d="m 970.68,646.49 -0.83,-1.44 17.53,-10.12 a 11.07,11.07 0 0 0 4.91,-8.5 v -4.23 a 12.53,12.53 0 0 1 5.74,-10 l 3.66,-2.11 0.84,1.44 -3.66,2.12 a 10.84,10.84 0 0 0 -4.91,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.75,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1513"
+             data-name="Pfad 1513"
+             class="cls-6"
+             d="m 963.86,642.56 -0.83,-1.44 17.53,-10.12 a 11,11 0 0 0 4.91,-8.5 v -4.23 a 12.53,12.53 0 0 1 5.74,-9.95 l 3.66,-2.12 0.84,1.45 -3.71,2.11 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1514"
+             data-name="Pfad 1514"
+             class="cls-6"
+             d="m 957.05,638.63 -0.84,-1.44 17.53,-10.12 a 10.86,10.86 0 0 0 4.91,-8.5 v -4.23 a 12.51,12.51 0 0 1 5.75,-10 l 3.66,-2.12 0.83,1.45 -3.66,2.12 a 11,11 0 0 0 -4.91,8.5 v 4.22 a 12.53,12.53 0 0 1 -5.74,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1515"
+             data-name="Pfad 1515"
+             class="cls-6"
+             d="m 950.23,634.7 -0.84,-1.44 17.53,-10.12 a 11,11 0 0 0 4.9,-8.5 v -4.23 a 12.54,12.54 0 0 1 5.75,-9.95 l 3.66,-2.11 0.83,1.44 -3.66,2.12 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.54,12.54 0 0 1 -5.74,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1516"
+             data-name="Pfad 1516"
+             class="cls-6"
+             d="m 943.41,630.78 -0.83,-1.45 17.53,-10.12 a 11,11 0 0 0 4.9,-8.5 v -4.23 a 12.51,12.51 0 0 1 5.75,-10 l 3.66,-2.11 0.83,1.45 -3.66,2.18 a 10.86,10.86 0 0 0 -4.91,8.5 v 4.23 a 12.54,12.54 0 0 1 -5.74,9.95 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1517"
+             data-name="Pfad 1517"
+             class="cls-6"
+             d="m 936.59,626.85 -0.84,-1.45 17.53,-10.12 a 11,11 0 0 0 4.91,-8.5 v -4.23 a 12.53,12.53 0 0 1 5.74,-9.95 l 3.67,-2.11 0.83,1.45 -3.66,2.11 a 11,11 0 0 0 -4.91,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.74,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1518"
+             data-name="Pfad 1518"
+             class="cls-6"
+             d="m 929.77,622.92 -0.83,-1.45 17.53,-10.12 a 11.05,11.05 0 0 0 4.91,-8.5 v -4.23 a 12.51,12.51 0 0 1 5.74,-9.94 l 3.66,-2.12 0.83,1.45 -3.61,2.11 a 11.06,11.06 0 0 0 -4.9,8.5 v 4.23 a 12.53,12.53 0 0 1 -5.74,9.95 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1519"
+             data-name="Pfad 1519"
+             class="cls-6"
+             d="m 923,619 -0.83,-1.45 17.53,-10.12 a 10.87,10.87 0 0 0 4.9,-8.5 v -4.23 a 12.51,12.51 0 0 1 5.75,-10 l 3.66,-2.11 0.83,1.45 -3.66,2.11 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.48,12.48 0 0 1 -5.75,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1520"
+             data-name="Pfad 1520"
+             class="cls-6"
+             d="m 916.14,615.06 -0.84,-1.45 17.53,-10.12 a 10.84,10.84 0 0 0 4.91,-8.5 v -4.22 a 12.53,12.53 0 0 1 5.74,-9.95 l 3.66,-2.11 0.84,1.44 -3.66,2.12 a 11,11 0 0 0 -4.91,8.5 V 595 a 12.51,12.51 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1521"
+             data-name="Pfad 1521"
+             class="cls-6"
+             d="m 909.32,611.13 -0.84,-1.45 17.52,-10.12 a 11,11 0 0 0 4.91,-8.5 v -4.22 a 12.53,12.53 0 0 1 5.74,-10 l 3.66,-2.12 0.84,1.45 -3.66,2.11 a 10.86,10.86 0 0 0 -4.91,8.5 v 4.23 a 12.51,12.51 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1522"
+             data-name="Pfad 1522"
+             class="cls-6"
+             d="m 902.5,607.2 -0.83,-1.44 17.53,-10.13 a 11,11 0 0 0 4.9,-8.5 v -4.22 a 12.51,12.51 0 0 1 5.75,-9.95 l 3.66,-2.11 0.83,1.44 -3.66,2.11 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.56,12.56 0 0 1 -5.75,10 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1523"
+             data-name="Pfad 1523"
+             class="cls-6"
+             d="m 895.68,603.27 -0.83,-1.44 17.53,-10.12 a 11,11 0 0 0 4.9,-8.5 V 579 A 12.56,12.56 0 0 1 923,569 l 3.66,-2.11 0.83,1.44 -3.66,2.12 A 11,11 0 0 0 919,579 v 4.22 a 12.56,12.56 0 0 1 -5.75,9.95 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1524"
+             data-name="Pfad 1524"
+             class="cls-6"
+             d="M 888.86,599.34 888,597.9 905.53,587.78 a 11.07,11.07 0 0 0 4.91,-8.5 v -4.23 a 12.53,12.53 0 0 1 5.74,-9.95 l 3.66,-2.11 0.83,1.44 -3.67,2.12 a 11,11 0 0 0 -4.9,8.5 v 4.23 a 12.52,12.52 0 0 1 -5.75,9.94 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+      </g>
+      <path
+         id="Pfad_1525"
+         data-name="Pfad 1525"
+         class="cls-20"
+         d="M 1052.3,552.63 948.68,492.81 v -46.45 l 103.09,57.23 104.13,-59.67 v 48.89 z"
+         transform="translate(-34.38,-49.43)"
+         style="fill:url(#Unbenannter_Verlauf_11-7)" />
+      <path
+         id="Pfad_1526"
+         data-name="Pfad 1526"
+         class="cls-21"
+         d="m 1155.9,455.66 v -11.72 l -104.12,59.66 -103.1,-57.22 v 9.72 l 96.9,55.92 c 3.43,2 9.44,1.75 13.41,-0.54 z"
+         transform="translate(-34.38,-49.43)" />
+      <g
+         id="Gruppe_526"
+         data-name="Gruppe 526">
+        <g
+           id="Gruppe_522"
+           data-name="Gruppe 522">
+          <g
+             id="Gruppe_512"
+             data-name="Gruppe 512">
+            <g
+               id="Gruppe_511"
+               data-name="Gruppe 511">
+              <path
+                 id="Pfad_1527"
+                 data-name="Pfad 1527"
+                 class="cls-22"
+                 d="m 1059,558.53 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.47,-2.54 -70.55,-41.65 -22.38,-13.1 -8.76,-2.53 -102.67,59 0.3,2.37 -2.74,1.58 -4.4,-2 v 17.95 0 a 3.92,3.92 0 0 0 2.3,3.44 l 99.6,57.48 c 3.37,2 9.37,1.76 13.37,-0.53 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.31 -20.95,-10.83 98.69,-56.84 a 3.39,3.39 0 0 1 3.07,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#linearGradient33)" />
+              <path
+                 id="Pfad_1528"
+                 data-name="Pfad 1528"
+                 class="cls-23"
+                 d="m 1059,558.53 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.47,-2.54 -70.55,-41.65 -22.38,-13.1 -8.76,-2.53 -102.67,59 0.3,2.37 -2.74,1.58 -4.4,-2 v 17.95 0 a 3.92,3.92 0 0 0 2.3,3.44 l 99.6,57.48 c 3.37,2 9.37,1.76 13.37,-0.53 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.31 -20.95,-10.83 98.69,-56.84 a 3.39,3.39 0 0 1 3.07,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-2)" />
+              <path
+                 id="Pfad_1529"
+                 data-name="Pfad 1529"
+                 class="cls-24"
+                 d="m 1051.77,560.41 v -21.76 l 2.51,0.12 45.31,-24.77 52,-30.14 -1.73,-1 c 1.61,-0.93 10.73,-3.47 12.4,-4.43 v 18 0 c 0,1.53 -1.09,3.16 -3.28,4.42 l -100,57.6 a 15.44,15.44 0 0 1 -7.21,1.96 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1530"
+                 data-name="Pfad 1530"
+                 class="cls-25"
+                 d="m 1059,540.28 100,-57.6 c 4,-2.29 4.41,-5.76 1,-7.75 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 l -100,57.6 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,1.98 9.4,1.74 13.4,-0.54 z m -5.55,-3.37 a 3.4,3.4 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.46 -0.68,-1.25 0.23,-1.77 l 99.73,-57.44 a 3.37,3.37 0 0 1 3.06,-0.13 l 97.83,56.47 c 0.79,0.45 0.69,1.24 -0.22,1.76 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-2)" />
+              <path
+                 id="Pfad_1531"
+                 data-name="Pfad 1531"
+                 class="cls-26"
+                 d="m 1059,540.28 100,-57.6 c 4,-2.29 4.41,-5.76 1,-7.75 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 l -100,57.6 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,1.98 9.4,1.74 13.4,-0.54 z m -5.55,-3.37 a 3.4,3.4 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.46 -0.68,-1.25 0.23,-1.77 l 99.73,-57.44 a 3.37,3.37 0 0 1 3.06,-0.13 l 97.83,56.47 c 0.79,0.45 0.69,1.24 -0.22,1.76 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-3)" />
+              <g
+                 id="Gruppe_510"
+                 data-name="Gruppe 510">
+                <path
+                   id="Pfad_1532"
+                   data-name="Pfad 1532"
+                   class="cls-6"
+                   d="m 1153.41,476.71 -97.83,-56.46 a 3.4,3.4 0 0 0 -3.06,0.12 l -99.73,57.45 c -0.74,0.42 -0.93,1 -0.57,1.47 a 1.79,1.79 0 0 1 0.57,-0.49 l 99.73,-57.45 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 a 1.43,1.43 0 0 1 0.35,0.3 0.83,0.83 0 0 0 -0.14,-1.16 0.72,0.72 0 0 0 -0.21,-0.12 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1533"
+                   data-name="Pfad 1533"
+                   class="cls-6"
+                   d="m 1159,481.69 -100,57.6 c -4,2.28 -10,2.53 -13.41,0.54 L 946,482.34 a 4.2,4.2 0 0 1 -2.27,-2.88 c -0.23,1.44 0.51,2.85 2.27,3.86 l 99.6,57.49 c 3.43,2 9.44,1.75 13.41,-0.54 l 100,-57.6 c 2.4,-1.39 3.5,-3.2 3.24,-4.86 -0.25,1.37 -1.31,2.76 -3.25,3.88 z"
+                   transform="translate(-34.38,-49.43)" />
+              </g>
+              <path
+                 id="Pfad_1534"
+                 data-name="Pfad 1534"
+                 class="cls-27"
+                 d="m 1055.57,428.47 a 3.4,3.4 0 0 0 -3.06,0.12 l -95.1,54.78 -4.84,-2.8 c -0.79,-0.46 -0.69,-1.25 0.22,-1.77 l 99.73,-57.44 a 3.42,3.42 0 0 1 3.07,-0.13 l 97.83,56.47 c 0.78,0.45 0.68,1.24 -0.22,1.77 l -4.63,2.66 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1535"
+                 data-name="Pfad 1535"
+                 class="cls-21"
+                 d="m 1153.19,479.46 c 0.91,-0.52 1,-1.31 0.22,-1.76 l -97.83,-56.47 a 3.4,3.4 0 0 0 -3.06,0.12 l -99.73,57.44 c -0.91,0.53 -1,1.32 -0.23,1.77 l 97.83,56.44 a 3.4,3.4 0 0 0 3.06,-0.13 z"
+                 transform="translate(-34.38,-49.43)" />
+            </g>
+          </g>
+          <g
+             id="Gruppe_515"
+             data-name="Gruppe 515">
+            <g
+               id="Gruppe_514"
+               data-name="Gruppe 514">
+              <path
+                 id="Pfad_1536"
+                 data-name="Pfad 1536"
+                 class="cls-28"
+                 d="m 1059,527.35 100,-57.6 c 2.2,-1.27 3.3,-2.89 3.29,-4.42 v 0 -18 l -3.43,3 -2.94,-1.7 c 0.32,-0.38 0.54,-0.7 0.48,-0.8 l -1.47,-2.54 -70.55,-41.66 -22.38,-13.05 -8.76,-2.53 -102.67,59 0.3,2.38 -2.79,1.57 -4.4,-2 v 18 0 a 3.91,3.91 0 0 0 2.3,3.44 l 99.6,57.49 c 3.42,1.95 9.42,1.7 13.42,-0.58 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.32 -20.95,-10.82 98.69,-56.85 a 3.4,3.4 0 0 1 3.06,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-3)" />
+              <path
+                 id="Pfad_1537"
+                 data-name="Pfad 1537"
+                 class="cls-29"
+                 d="m 1059,527.35 100,-57.6 c 2.2,-1.27 3.3,-2.89 3.29,-4.42 v 0 -18 l -3.43,3 -2.94,-1.7 c 0.32,-0.38 0.54,-0.7 0.48,-0.8 l -1.47,-2.54 -70.55,-41.66 -22.38,-13.05 -8.76,-2.53 -102.67,59 0.3,2.38 -2.79,1.57 -4.4,-2 v 18 0 a 3.91,3.91 0 0 0 2.3,3.44 l 99.6,57.49 c 3.42,1.95 9.42,1.7 13.42,-0.58 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.32 -20.95,-10.82 98.69,-56.85 a 3.4,3.4 0 0 1 3.06,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-4)" />
+              <path
+                 id="Pfad_1538"
+                 data-name="Pfad 1538"
+                 class="cls-24"
+                 d="m 1051.77,529.22 v -21.76 l 2.51,0.12 45.29,-24.73 52,-30.14 -1.73,-1 c 1.61,-0.93 10.73,-3.47 12.4,-4.43 v 18.05 0 c 0,1.54 -1.09,3.16 -3.28,4.42 l -100,57.6 a 15.44,15.44 0 0 1 -7.19,1.87 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1539"
+                 data-name="Pfad 1539"
+                 class="cls-30"
+                 d="m 1059,509.08 100,-57.6 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 l -100,57.6 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,1.99 9.4,1.75 13.4,-0.55 z m -5.55,-3.36 a 3.4,3.4 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.46 -0.68,-1.25 0.23,-1.77 l 99.73,-57.44 a 3.37,3.37 0 0 1 3.06,-0.13 l 97.83,56.47 c 0.79,0.45 0.69,1.24 -0.22,1.76 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-4)" />
+              <path
+                 id="Pfad_1540"
+                 data-name="Pfad 1540"
+                 class="cls-31"
+                 d="m 1059,509.08 100,-57.6 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 l -100,57.6 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,1.99 9.4,1.75 13.4,-0.55 z m -5.55,-3.36 a 3.4,3.4 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.46 -0.68,-1.25 0.23,-1.77 l 99.73,-57.44 a 3.37,3.37 0 0 1 3.06,-0.13 l 97.83,56.47 c 0.79,0.45 0.69,1.24 -0.22,1.76 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-5)" />
+              <g
+                 id="Gruppe_513"
+                 data-name="Gruppe 513">
+                <path
+                   id="Pfad_1541"
+                   data-name="Pfad 1541"
+                   class="cls-6"
+                   d="m 1153.41,445.53 -97.83,-56.47 a 3.4,3.4 0 0 0 -3.06,0.13 l -99.73,57.44 c -0.74,0.42 -0.93,1 -0.57,1.47 a 1.79,1.79 0 0 1 0.57,-0.49 l 99.73,-57.44 a 3.37,3.37 0 0 1 3.06,-0.12 l 97.83,56.46 a 1.27,1.27 0 0 1 0.35,0.3 0.83,0.83 0 0 0 -0.13,-1.16 0.78,0.78 0 0 0 -0.22,-0.12 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1542"
+                   data-name="Pfad 1542"
+                   class="cls-6"
+                   d="m 1159,450.5 -100,57.6 c -4,2.29 -10,2.53 -13.41,0.55 L 946,451.16 a 4.2,4.2 0 0 1 -2.27,-2.88 c -0.23,1.44 0.51,2.84 2.27,3.86 l 99.6,57.49 c 3.43,2 9.44,1.74 13.41,-0.54 l 100,-57.6 c 2.4,-1.39 3.5,-3.2 3.24,-4.86 -0.25,1.37 -1.31,2.76 -3.25,3.87 z"
+                   transform="translate(-34.38,-49.43)" />
+              </g>
+              <path
+                 id="Pfad_1543"
+                 data-name="Pfad 1543"
+                 class="cls-27"
+                 d="m 1055.57,397.28 a 3.4,3.4 0 0 0 -3.06,0.13 l -95.1,54.77 -4.84,-2.8 c -0.79,-0.45 -0.69,-1.24 0.22,-1.76 l 99.73,-57.45 a 3.42,3.42 0 0 1 3.07,-0.12 l 97.83,56.46 c 0.78,0.46 0.68,1.25 -0.22,1.77 l -4.63,2.67 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1544"
+                 data-name="Pfad 1544"
+                 class="cls-21"
+                 d="m 1153.19,448.28 c 0.91,-0.53 1,-1.32 0.22,-1.77 L 1055.58,390 a 3.4,3.4 0 0 0 -3.06,0.13 l -99.73,57.44 c -0.91,0.52 -1,1.31 -0.23,1.77 l 97.83,56.46 a 3.4,3.4 0 0 0 3.06,-0.12 z"
+                 transform="translate(-34.38,-49.43)" />
+            </g>
+          </g>
+          <g
+             id="Gruppe_518"
+             data-name="Gruppe 518">
+            <g
+               id="Gruppe_517"
+               data-name="Gruppe 517">
+              <path
+                 id="Pfad_1545"
+                 data-name="Pfad 1545"
+                 class="cls-32"
+                 d="m 1059,496.16 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.46,-2.54 -70.56,-41.66 -22.38,-13.1 -8.76,-2.53 -102.67,59 0.3,2.38 -2.74,1.57 -4.39,-2 v 17.94 0 a 4,4 0 0 0 2.31,3.44 l 99.59,57.49 c 3.36,2.01 9.36,1.77 13.36,-0.52 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.32 -20.95,-10.82 98.69,-56.84 a 3.37,3.37 0 0 1 3.06,-0.13 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-5)" />
+              <path
+                 id="Pfad_1546"
+                 data-name="Pfad 1546"
+                 class="cls-33"
+                 d="m 1059,496.16 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.46,-2.54 -70.56,-41.66 -22.38,-13.1 -8.76,-2.53 -102.67,59 0.3,2.38 -2.74,1.57 -4.39,-2 v 17.94 0 a 4,4 0 0 0 2.31,3.44 l 99.59,57.49 c 3.36,2.01 9.36,1.77 13.36,-0.52 z m 40.6,-44.5 -45.29,24.73 -3.9,-0.19 -75.63,-42.32 -20.95,-10.82 98.69,-56.84 a 3.37,3.37 0 0 1 3.06,-0.13 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-6)" />
+              <path
+                 id="Pfad_1547"
+                 data-name="Pfad 1547"
+                 class="cls-24"
+                 d="m 1051.77,498 v -21.77 l 2.51,0.12 45.29,-24.73 52,-30.13 -1.73,-1 c 1.61,-0.93 10.73,-3.47 12.4,-4.43 v 18 0 c 0,1.53 -1.09,3.15 -3.28,4.42 l -100,57.6 a 15.56,15.56 0 0 1 -7.19,1.92 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1548"
+                 data-name="Pfad 1548"
+                 class="cls-34"
+                 d="m 1059,477.9 100,-57.61 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.49 c -3.44,-2 -9.44,-1.74 -13.41,0.55 l -100,57.6 c -4,2.28 -4.4,5.75 -1,7.74 l 99.6,57.48 c 3.4,2 9.4,1.76 13.4,-0.53 z m -5.55,-3.37 a 3.37,3.37 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.45 -0.68,-1.24 0.23,-1.77 L 1052.52,359 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-6)" />
+              <path
+                 id="Pfad_1549"
+                 data-name="Pfad 1549"
+                 class="cls-35"
+                 d="m 1059,477.9 100,-57.61 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.49 c -3.44,-2 -9.44,-1.74 -13.41,0.55 l -100,57.6 c -4,2.28 -4.4,5.75 -1,7.74 l 99.6,57.48 c 3.4,2 9.4,1.76 13.4,-0.53 z m -5.55,-3.37 a 3.37,3.37 0 0 1 -3.06,0.12 l -97.83,-56.46 c -0.78,-0.45 -0.68,-1.24 0.23,-1.77 L 1052.52,359 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-7)" />
+              <g
+                 id="Gruppe_516"
+                 data-name="Gruppe 516">
+                <path
+                   id="Pfad_1550"
+                   data-name="Pfad 1550"
+                   class="cls-6"
+                   d="m 1153.41,414.34 -97.83,-56.46 a 3.37,3.37 0 0 0 -3.06,0.12 l -99.73,57.44 c -0.74,0.43 -0.93,1 -0.57,1.48 a 1.7,1.7 0 0 1 0.57,-0.5 L 1052.52,359 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 a 1.64,1.64 0 0 1 0.35,0.29 0.82,0.82 0 0 0 -0.14,-1.15 0.72,0.72 0 0 0 -0.21,-0.14 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1551"
+                   data-name="Pfad 1551"
+                   class="cls-6"
+                   d="m 1159,419.32 -100,57.6 c -4,2.28 -10,2.53 -13.41,0.54 L 946,420 a 4.2,4.2 0 0 1 -2.27,-2.88 c -0.23,1.44 0.51,2.84 2.27,3.86 l 99.6,57.49 c 3.43,2 9.44,1.75 13.41,-0.54 l 100,-57.6 c 2.4,-1.39 3.5,-3.2 3.24,-4.86 -0.25,1.33 -1.31,2.73 -3.25,3.85 z"
+                   transform="translate(-34.38,-49.43)" />
+              </g>
+              <path
+                 id="Pfad_1552"
+                 data-name="Pfad 1552"
+                 class="cls-27"
+                 d="m 1055.57,366.09 a 3.4,3.4 0 0 0 -3.06,0.13 l -95.1,54.78 -4.84,-2.8 c -0.79,-0.46 -0.69,-1.25 0.22,-1.77 L 1052.52,359 a 3.42,3.42 0 0 1 3.07,-0.12 l 97.82,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 l -4.63,2.67 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1553"
+                 data-name="Pfad 1553"
+                 class="cls-21"
+                 d="m 1153.19,417.09 c 0.91,-0.52 1,-1.32 0.22,-1.77 l -97.83,-56.46 a 3.37,3.37 0 0 0 -3.06,0.12 l -99.73,57.44 c -0.91,0.53 -1,1.32 -0.23,1.77 l 97.83,56.47 a 3.4,3.4 0 0 0 3.06,-0.13 z"
+                 transform="translate(-34.38,-49.43)" />
+            </g>
+          </g>
+          <g
+             id="Gruppe_521"
+             data-name="Gruppe 521">
+            <g
+               id="Gruppe_520"
+               data-name="Gruppe 520">
+              <path
+                 id="Pfad_1554"
+                 data-name="Pfad 1554"
+                 class="cls-36"
+                 d="m 1059,465 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.46,-2.54 -70.56,-41.66 -22.38,-13.13 -8.76,-2.53 -102.67,59 0.3,2.38 -2.74,1.57 -4.39,-2 v 17.94 0 A 4,4 0 0 0 946,408 l 99.59,57.49 c 3.41,2.01 9.41,1.77 13.41,-0.49 z m 40.6,-44.5 -45.3,24.7 -3.9,-0.19 -75.63,-42.31 -20.95,-10.83 98.69,-56.87 a 3.37,3.37 0 0 1 3.06,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-7)" />
+              <path
+                 id="Pfad_1555"
+                 data-name="Pfad 1555"
+                 class="cls-37"
+                 d="m 1059,465 100,-57.6 c 2.2,-1.26 3.3,-2.88 3.29,-4.42 v 0 -18 l -3.43,3.06 -2.94,-1.71 c 0.32,-0.37 0.54,-0.7 0.48,-0.8 l -1.46,-2.54 -70.56,-41.66 -22.38,-13.13 -8.76,-2.53 -102.67,59 0.3,2.38 -2.74,1.57 -4.39,-2 v 17.94 0 A 4,4 0 0 0 946,408 l 99.59,57.49 c 3.41,2.01 9.41,1.77 13.41,-0.49 z m 40.6,-44.5 -45.3,24.7 -3.9,-0.19 -75.63,-42.31 -20.95,-10.83 98.69,-56.87 a 3.37,3.37 0 0 1 3.06,-0.12 l 96,55.43 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-8)" />
+              <path
+                 id="Pfad_1556"
+                 data-name="Pfad 1556"
+                 class="cls-24"
+                 d="m 1051.77,466.85 v -21.77 l 2.51,0.13 45.29,-24.73 52,-30.14 -1.73,-1 c 1.61,-0.93 10.73,-3.47 12.4,-4.43 v 18 0 c 0,1.53 -1.09,3.15 -3.28,4.42 L 1059,465 a 15.44,15.44 0 0 1 -7.23,1.85 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1557"
+                 data-name="Pfad 1557"
+                 class="cls-38"
+                 d="m 1059,446.71 100,-57.6 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 L 947,382 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,2.02 9.4,1.77 13.4,-0.52 z m -5.55,-3.36 a 3.4,3.4 0 0 1 -3.06,0.12 L 952.56,387 c -0.78,-0.45 -0.68,-1.24 0.23,-1.77 l 99.73,-57.44 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_26-8)" />
+              <path
+                 id="Pfad_1558"
+                 data-name="Pfad 1558"
+                 class="cls-39"
+                 d="m 1059,446.71 100,-57.6 c 4,-2.28 4.41,-5.75 1,-7.74 l -99.59,-57.48 c -3.44,-2 -9.44,-1.75 -13.41,0.54 L 947,382 c -4,2.29 -4.4,5.75 -1,7.74 l 99.6,57.49 c 3.4,2.02 9.4,1.77 13.4,-0.52 z m -5.55,-3.36 a 3.4,3.4 0 0 1 -3.06,0.12 L 952.56,387 c -0.78,-0.45 -0.68,-1.24 0.23,-1.77 l 99.73,-57.44 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 z"
+                 transform="translate(-34.38,-49.43)"
+                 style="fill:url(#Unbenannter_Verlauf_27-9)" />
+              <g
+                 id="Gruppe_519"
+                 data-name="Gruppe 519">
+                <path
+                   id="Pfad_1559"
+                   data-name="Pfad 1559"
+                   class="cls-6"
+                   d="m 1153.41,383.15 -97.83,-56.46 a 3.4,3.4 0 0 0 -3.06,0.12 l -99.73,57.45 c -0.74,0.42 -0.93,1 -0.57,1.47 a 1.79,1.79 0 0 1 0.57,-0.49 l 99.73,-57.44 a 3.4,3.4 0 0 1 3.06,-0.12 l 97.83,56.45 a 1.27,1.27 0 0 1 0.35,0.3 0.82,0.82 0 0 0 -0.13,-1.15 0.8,0.8 0 0 0 -0.22,-0.13 z"
+                   transform="translate(-34.38,-49.43)" />
+                <path
+                   id="Pfad_1560"
+                   data-name="Pfad 1560"
+                   class="cls-6"
+                   d="m 1159,388.13 -100,57.6 c -4,2.29 -10,2.53 -13.41,0.54 L 946,388.79 a 4.24,4.24 0 0 1 -2.27,-2.89 c -0.23,1.44 0.51,2.85 2.27,3.87 l 99.6,57.48 c 3.43,2 9.44,1.75 13.41,-0.54 l 100,-57.6 c 2.4,-1.38 3.5,-3.2 3.24,-4.86 -0.25,1.37 -1.31,2.75 -3.25,3.88 z"
+                   transform="translate(-34.38,-49.43)" />
+              </g>
+              <path
+                 id="Pfad_1561"
+                 data-name="Pfad 1561"
+                 class="cls-27"
+                 d="m 1055.57,334.91 a 3.4,3.4 0 0 0 -3.06,0.12 l -95.1,54.78 -4.84,-2.8 c -0.79,-0.46 -0.69,-1.25 0.22,-1.77 l 99.73,-57.44 a 3.42,3.42 0 0 1 3.07,-0.13 l 97.82,56.46 c 0.79,0.46 0.69,1.25 -0.22,1.77 l -4.63,2.67 z"
+                 transform="translate(-34.38,-49.43)" />
+              <path
+                 id="Pfad_1562"
+                 data-name="Pfad 1562"
+                 class="cls-21"
+                 d="m 1153.19,385.9 c 0.91,-0.52 1,-1.31 0.22,-1.77 l -97.83,-56.46 a 3.4,3.4 0 0 0 -3.06,0.12 l -99.73,57.45 c -0.91,0.52 -1,1.31 -0.23,1.77 l 97.83,56.46 a 3.4,3.4 0 0 0 3.06,-0.12 z"
+                 transform="translate(-34.38,-49.43)" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="Gruppe_523"
+           data-name="Gruppe 523">
+          <path
+             id="Pfad_1563"
+             data-name="Pfad 1563"
+             class="cls-6"
+             d="m 1140.34,409.47 a 3.58,3.58 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.57,3.57 0 0 1 1.63,-2.82 c 0.9,-0.53 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1564"
+             data-name="Pfad 1564"
+             class="cls-6"
+             d="m 1146,406.19 a 3.6,3.6 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.58,3.58 0 0 1 1.63,-2.82 c 0.92,-0.52 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1565"
+             data-name="Pfad 1565"
+             class="cls-6"
+             d="m 1151.7,402.91 a 3.59,3.59 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.61,3.61 0 0 1 1.63,-2.82 c 0.93,-0.52 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+        <g
+           id="Gruppe_524"
+           data-name="Gruppe 524">
+          <path
+             id="Pfad_1566"
+             data-name="Pfad 1566"
+             class="cls-6"
+             d="m 1140.34,441.32 a 3.61,3.61 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.59,3.59 0 0 1 1.63,-2.83 c 0.9,-0.52 1.63,-0.1 1.63,0.95 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1567"
+             data-name="Pfad 1567"
+             class="cls-6"
+             d="m 1146,438 a 3.62,3.62 0 0 1 -1.63,2.83 c -0.9,0.52 -1.63,0.1 -1.63,-0.95 a 3.61,3.61 0 0 1 1.63,-2.82 c 0.92,-0.49 1.63,-0.06 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1568"
+             data-name="Pfad 1568"
+             class="cls-6"
+             d="m 1151.7,434.75 a 3.56,3.56 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.61,3.61 0 0 1 1.63,-2.82 c 0.93,-0.52 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+        <g
+           id="Gruppe_525"
+           data-name="Gruppe 525">
+          <path
+             id="Pfad_1569"
+             data-name="Pfad 1569"
+             class="cls-40"
+             d="m 1140.34,502.74 a 3.62,3.62 0 0 1 -1.63,2.83 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.59,3.59 0 0 1 1.63,-2.83 c 0.9,-0.52 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1570"
+             data-name="Pfad 1570"
+             class="cls-40"
+             d="m 1146,499.46 a 3.62,3.62 0 0 1 -1.63,2.83 c -0.9,0.52 -1.63,0.1 -1.63,-1 a 3.61,3.61 0 0 1 1.63,-2.82 c 0.92,-0.47 1.63,-0.05 1.63,0.99 z"
+             transform="translate(-34.38,-49.43)" />
+          <path
+             id="Pfad_1571"
+             data-name="Pfad 1571"
+             class="cls-40"
+             d="m 1151.7,496.18 a 3.56,3.56 0 0 1 -1.63,2.82 c -0.9,0.52 -1.63,0.1 -1.63,-0.94 a 3.58,3.58 0 0 1 1.63,-2.82 c 0.93,-0.52 1.63,-0.1 1.63,0.94 z"
+             transform="translate(-34.38,-49.43)" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

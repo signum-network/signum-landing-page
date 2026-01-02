@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+echo "Building application..."
+npm run build

@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+/* Montserrat Regular */
+@font-face {
+  font-family: "Montserrat";
+  src: url("/fonts/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Montserrat Bold */
+@font-face {
+  font-family: "Montserrat";
+  src: url("/fonts/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ---- Brand Theme (Tailwind v4) ---- */
+@theme {
+  /* Typography */
+  --font-sans: "Montserrat";
+  /*, system-ui, -apple-system, "Segoe UI", Roboto, "Apple Color Emoji", "Segoe UI Emoji */
+
+  /* Primary Colors */
+  --color-signum-blue: #0099ff;
+  --color-signum-darkblue: #0066ff;
+  --color-signum-lightgreen: #00ff88;
+
+  /* Secondary Web Colors */
+  --color-signum-acqua: #e8f3ff;
+  --color-signum-lightacqua: #eaf0f6;
+  --color-signum-midnight: #021851;
+
+  /* Radii & Shadows (subtil, Apple-like) */
+  --radius-2xl: 1.25rem;
+  --radius-3xl: 1.75rem;
+
+  --shadow-card: 0 8px 30px rgba(0, 0, 0, 0.06);
+  --shadow-lift: 0 18px 60px rgba(0, 0, 0, 0.08);
+  --shadow-soft: 0 10px 30px -15px rgba(0, 0, 0, 0.15);
+}
+/* ---- Global Defaults ---- */
+@layer base {
+  html,
+  body {
+    @apply text-signum-midnight bg-white font-sans text-[18px] leading-[1.6];
+    font-weight: 500;
+  }
+
+  p {
+    @apply text-signum-midnight font-sans text-[18px] leading-[1.6];
+    font-weight: 500;
+  }
+  strong,
+  b {
+    font-weight: 700;
+  }
+}
+/* ---- Reusable Utilities / Components ---- */
+@layer utilities {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-full px-6 py-3 text-sm font-semibold transition;
+  }
+  .btn-primary {
+    @apply bg-signum-blue text-white hover:bg-signum-darkblue;
+  }
+  .btn-ghost {
+    @apply border border-signum-blue text-signum-blue hover:bg-signum-acqua;
+  }
+
+  .card {
+    @apply rounded-2xl bg-white ring-1 ring-black/5 shadow-card transition hover:shadow-lift;
+  }
+  .kicker {
+    @apply text-xs uppercase tracking-widest text-neutral-500;
+  }
+
+  .section {
+    @apply relative overflow-hidden;
+  }
+  .section-radial {
+    background: radial-gradient(
+      1200px 600px at 50% -100px,
+      rgba(0, 0, 0, 0.06),
+      transparent
+    );
+  }
+
+  .navlink-underline {
+    @apply relative text-[18px] text-neutral-700 hover:text-black transition;
+  }
+
+  .navlink-underline::after {
+    content: "";
+    @apply absolute left-0 -bottom-1 h-0.5 w-0 bg-signum-blue transition-all duration-300;
+  }
+
+  .navlink-underline:hover::after {
+    @apply w-full;
+  }
+
+  .navlink-underline-active {
+    @apply text-black;
+  }
+
+  .navlink-underline-active::after {
+    content: none;
+  }
+  @layer components {
+    .btn-white {
+      @apply inline-flex items-center gap-2 rounded-full bg-white text-signum-midnight
+           px-5 py-3 font-semibold ring-1 ring-neutral-200 shadow-[var(--shadow-card)]
+           hover:bg-white hover:shadow-[var(--shadow-card)]
+           focus:outline-none focus-visible:ring-2 focus-visible:ring-signum-blue/40;
+    }
+  }
+}
