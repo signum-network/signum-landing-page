@@ -33,6 +33,7 @@ A lightweight, privacy-friendly landing page for the Signum, built with **Vite +
 
 - ✅ Fast static site (Vite)
 - ✅ Responsive UI with Tailwind
+- ✅ XT-Wallet and SignumJS Integration
 - ✅ Privacy-first setup (no third-party font/CDN calls)
 - ✅ YouTube **links only** (no embedded players)
 - ✅ “Essential cookies only” consent banner (configurable delay + re-ask interval)

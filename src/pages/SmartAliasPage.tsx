@@ -25,7 +25,7 @@ export default function AliasesPage() {
       />
 
       {/* HERO */}
-      <header className="relative isolate overflow-hidden border-b border-neutral-200/60 bg-signum-blue">
+      <header className="relative isolate overflow-hidden border-b border-neutral-200/60 bg-signum-darkblue ">
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent" />
         <img
           src={Platine}
