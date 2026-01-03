@@ -45,8 +45,8 @@ export default function AliasesPage() {
         />
 
         <Container className="relative z-10 py-12 sm:py-16">
-          <div className="grid items-center gap-8 md:grid-cols-2">
-            <figure className="order-1 md:order-2 justify-self-center md:justify-self-end">
+          <div className="grid items-center gap-8 xl:grid-cols-2">
+            <figure className="order-1 xl:order-2 justify-self-center xl:justify-self-end">
               <img
                 src={Alias}
                 alt="Signum Tokens illustration"
@@ -59,8 +59,8 @@ export default function AliasesPage() {
               <p className="text-sm tracking-widest text-white">
                 SMART ALIASES
               </p>
-              <h1 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white">
-                Human-readable names — on-chain & flexible
+              <h1 className="mt-2 text-3xl sm:text-4xl xl:text-5xl font-bold tracking-tight text-white">
+                Human-readable names <br></br>— on-chain & flexible
               </h1>
               <p className="mx-auto md:mx-0 mt-4 max-w-2xl text-[20px] text-white">
                 Claim a readable alias and point it to a Signum account, a URL,
@@ -184,7 +184,7 @@ function StatsBand() {
   return (
     <section className="relative bg-signum-blue text-white">
       <Container className="py-10">
-        <div className="grid grid-cols-1 md:grid-cols-5 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-6">
           {ALIAS_STATS.map((s) => (
             <article
               key={s.label}

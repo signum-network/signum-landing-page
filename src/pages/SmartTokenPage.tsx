@@ -58,8 +58,8 @@ export default function TokensPage() {
         />
 
         <Container className="relative z-10 py-12 sm:py-16">
-          <div className="grid items-center gap-8 md:grid-cols-2">
-            <figure className="order-1 md:order-2 justify-self-center md:justify-self-end">
+          <div className="grid items-center gap-8 xl:grid-cols-2">
+            <figure className="order-1 xl:order-2 justify-self-center xl:justify-self-end">
               <img
                 src={Token}
                 alt="Signum Tokens illustration"
@@ -200,7 +200,7 @@ function WhatAreTokens() {
         no sidechains or bridges.
       </p>
 
-      <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-6 grid gap-4 lg:grid-cols-2 xl:grid-cols-3">
         <article className="card p-5">
           <h3 className="font-semibold text-signum-midnight">
             On-chain by default
@@ -274,7 +274,7 @@ function HighlightsGrid() {
         The essentials that make Signum tokens practical — and powerful.
       </p>
 
-      <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-6 grid gap-4 lg:grid-cols-2 xl:grid-cols-3">
         {cards.map((c) => (
           <article key={c.title} className="card p-6 h-full overflow-hidden">
             <img
@@ -326,7 +326,7 @@ function UseCasesGrid() {
         From communities to products — tokens add simple, programmable value.
       </p>
 
-      <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-6 grid gap-4 lg:grid-cols-2 xl:grid-cols-3">
         {cases.map((c) => (
           <article key={c.title} className="card p-6 h-full overflow-hidden">
             <img
@@ -388,7 +388,7 @@ function CreateTokenSteps() {
         Three simple steps — then your token is live and transferable.
       </p>
 
-      <div className="mt-6 grid gap-4 md:grid-cols-3">
+      <div className="mt-6 grid gap-4 xl:grid-cols-3">
         {steps.map((s) => (
           <article
             key={s.title}

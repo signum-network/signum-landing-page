@@ -104,9 +104,9 @@ export function SignumMiningLanding() {
           </p>
         </div>
 
-        <Card className="mx-auto mt-10 max-w-3xl card">
-          <CardContent className="p-6 md:p-8">
-            <div className="grid gap-6 md:grid-cols-2">
+        <Card className="mx-auto mt-10 md:max-w-2xl card xl:max-w-3xl card ">
+          <CardContent className="p-4 xl:p-8">
+            <div className="grid gap-6 xl:grid-cols-2">
               {/* Left controls */}
               <div className="space-y-5">
                 <div className="space-y-2 ">

@@ -47,8 +47,8 @@ export default function MessagesPage() {
                      [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
         <Container className="relative z-10 py-12 sm:py-16">
-          <div className="grid items-center gap-8 md:grid-cols-2">
-            <figure className="order-1 md:order-2 justify-self-center md:justify-self-end">
+          <div className="grid items-center gap-8 xl:grid-cols-2">
+            <figure className="order-1 xl:order-2 justify-self-center xl:justify-self-end">
               <img
                 src={MesssageArt}
                 alt="Signum Tokens illustration"

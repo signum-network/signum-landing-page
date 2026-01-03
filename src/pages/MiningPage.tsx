@@ -189,7 +189,7 @@ function QuickStart() {
 
 function PoolSteps() {
   return (
-    <div className="grid gap-4 md:grid-cols-3 items-stretch">
+    <div className="grid gap-4 xl:grid-cols-3 items-stretch">
       <StepCard
         icon={<Wallet className="h-5 w-5" />}
         title="Install XT Wallet"
@@ -222,7 +222,7 @@ function PoolSteps() {
 
 function SoloSteps() {
   return (
-    <div className="grid gap-4 md:grid-cols-3 items-stretch">
+    <div className="grid gap-4 xl:grid-cols-3 items-stretch">
       <StepCard
         icon={<Server className="h-5 w-5" />}
         title="Run a node"
@@ -275,7 +275,7 @@ function Requirements() {
         Requirements
       </h2>
       <p className="mt-1 text-neutral-600">Runs on what you already have.</p>
-      <div className="mt-4 grid gap-4 md:grid-cols-2">
+      <div className="mt-4 grid gap-4 xl:grid-cols-2">
         {items.map((it) => (
           <div key={it.title} className="card p-5">
             <div className="flex items-start gap-3">
@@ -310,7 +310,7 @@ function Plotting() {
       <p className="mt-1 text-neutral-600">
         Create plot files once — storage does the heavy lifting.
       </p>
-      <div className="mt-4 grid gap-4 md:grid-cols-2">
+      <div className="mt-4 grid gap-4 xl:grid-cols-2">
         <div className="card p-5">
           <h3 className="font-semibold text-signum-midnight">Simple (GUI)</h3>
           <p className="mt-1 text-neutral-700 text-[15px]">
@@ -364,7 +364,7 @@ function Configure() {
 
 function ConfigPool() {
   return (
-    <div className="grid gap-4 md:grid-cols-3">
+    <div className="grid gap-4 xl:grid-cols-3">
       <StepCard
         icon={<Wallet className="h-5 w-5" />}
         title="XT Wallet ready"
@@ -389,7 +389,7 @@ function ConfigPool() {
 
 function ConfigSolo() {
   return (
-    <div className="grid gap-4 md:grid-cols-3">
+    <div className="grid gap-4 xl:grid-cols-3">
       <StepCard
         icon={<Server className="h-5 w-5" />}
         title="Node running"
@@ -417,7 +417,7 @@ function Commitment() {
   return (
     <section id="commitment" className="scroll-mt-28">
       <div className="card p-6">
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <div className="flex flex-col xl:flex-row xl:items-center xl:justify-between gap-4">
           <div>
             <h2 className="text-2xl font-semibold text-signum-midnight">
               More commitment. More capacity.
@@ -472,7 +472,7 @@ function CTACommitment() {
             Manage your Commitment
           </h1>
 
-          <div className="grid gap-6 md:grid-cols-2 items-start">
+          <div className="grid gap-6 xl:grid-cols-2 items-start">
             <div>
               <AddCommitmentButton />
             </div>
@@ -504,7 +504,7 @@ function PoolsAndNetwork() {
       <h2 className="text-2xl font-semibold text-signum-midnight">
         Pools & network
       </h2>
-      <div className="mt-4 grid gap-4 md:grid-cols-2">
+      <div className="mt-4 grid gap-4 lx:grid-cols-2">
         <div className="card p-5">
           <h3 className="font-semibold text-signum-midnight">Find a pool</h3>
           <p className="mt-1 text-neutral-700 text-[15px]">

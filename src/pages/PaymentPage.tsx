@@ -59,18 +59,18 @@ export default function PaymentsPage() {
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
         <Container className="py-14">
-          <div className="grid md:grid-cols-2 items-center gap-10">
+          <div className="grid xl:grid-cols-2 items-center gap-10">
             <div className="text-white">
               <p className="text-white">SMART PAYMENTS</p>
-              <h1 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight">
+              <h1 className="mt-2 text-3xl sm:text-4xl xl:text-5xl font-bold tracking-tight">
                 Pay with Signum —
               </h1>
-              <h1 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight">
+              <h1 className="mt-2 text-3xl sm:text-4xl xl:text-5xl font-bold tracking-tight">
                 fast, fair, global.
               </h1>
               <p className="mt-4 text-white max-w-2xl">
                 Accept SIGNA on the web, at the point of sale, or with a simple
-                link. Enjoy ultra-low fees, real on-chain finality, and
+                link.<br></br> Enjoy ultra-low fees, real on-chain finality, and
                 sustainable PoC+.
               </p>
 
@@ -87,7 +87,7 @@ export default function PaymentsPage() {
               </div>
             </div>
 
-            <div className="order-first md:order-last md:justify-self-end">
+            <div className="order-first xl:order-last xl:justify-self-end">
               <div
                 className="
                 w-[260px] sm:w-[320px] md:w-[360px] lg:w-[420px]
@@ -201,12 +201,12 @@ function WaysToAccept() {
       <h2 className="text-2xl font-semibold text-signum-midnight">
         From web to POS — your choice
       </h2>
-      <p className="mt-2 text-neutral-700">
+      <p className="mt-2 text-neutral-700 pr-6">
         Accept payments where your customers are. Clean UX, predictable fees and
         real on-chain finality.
       </p>
 
-      <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="mt-6 grid p-6 lg:grid-cols-2 xl:grid-cols-3 gap-6">
         {cards.map((c) => (
           <article key={c.title} className="card p-6">
             <div className="rounded-xl bg-signum-acqua/70 p-2 text-signum-midnight/80 w-fit">
@@ -261,7 +261,7 @@ function PaymentTypes() {
         payouts.
       </p>
 
-      <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="mt-6 grid lg:grid-cols-2 xl:grid-cols-3 gap-6">
         {cards.map((c) => (
           <article
             key={c.title}
@@ -310,7 +310,7 @@ function SubscriptionPlan() {
       <h2 className="text-2xl font-semibold text-signum-midnight">
         Subscription plan (Auto Payment)
       </h2>
-      <p className="mt-2 text-neutral-700">
+      <p className="mt-2 text-neutral-700 pr-6">
         Schedule recurring on-chain payments — like standing orders. Select
         amount and interval (from 60 minutes to days or months). Optionally
         include a message that’s sent when the plan starts.
@@ -350,7 +350,7 @@ function Cashback() {
       <h2 className="text-2xl font-semibold text-signum-midnight">
         Node fee cashback (25%)
       </h2>
-      <p className="mt-2 text-neutral-700">
+      <p className="mt-2 text-neutral-700 pr-6">
         If your node signs the transaction, you can receive{" "}
         <strong>25% cashback</strong> on network fees. This also benefits
         operators who provide remote nodes to apps or the community.
@@ -388,12 +388,12 @@ function DeveloperTools() {
       <h2 className="text-2xl font-semibold text-signum-midnight">
         Developer tools
       </h2>
-      <p className="mt-2 text-neutral-700">
+      <p className="mt-2 text-neutral-700 pr-6">
         Build custom flows with SignumJS and documented APIs — from simple links
         to full checkouts.
       </p>
 
-      <div className="mt-6 grid sm:grid-cols-2 gap-6">
+      <div className="mt-6 grid xl:grid-cols-2 gap-6">
         <article className="card p-6">
           <h3 className="font-semibold text-signum-midnight">SignumJS</h3>
           <p className="mt-2 text-[15px] text-neutral-700">

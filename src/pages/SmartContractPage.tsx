@@ -46,8 +46,8 @@ export default function SmartContractsPage() {
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
         <Container className="relative z-10 py-12 sm:py-16">
-          <div className="grid items-center gap-8 md:grid-cols-2">
-            <div className="order-2 md:order-1 text-center md:text-left">
+          <div className="grid items-center gap-8 xl:grid-cols-2">
+            <div className="order-2 xl:order-1 text-center xl:text-left">
               <p className="text-sm tracking-widest text-white">
                 SMART CONTRACTS
               </p>
@@ -142,7 +142,7 @@ function SpecsBand() {
   return (
     <section className="relative bg-signum-blue text-white">
       <Container className="py-10">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 xl:grid-cols-4 gap-6">
           {SMART_CONTRACT_SPECS.map((s) => (
             <article
               key={s.label}
@@ -209,7 +209,7 @@ function WhyDifferent() {
 function Framework() {
   return (
     <section id="framework" className="scroll-mt-28">
-      <Container className="py-14 grid gap-10 md:grid-cols-2 items-center">
+      <Container className="py-14 grid gap-10 xl:grid-cols-2 items-center">
         <div>
           <h2 className="text-2xl font-semibold text-signum-midnight">
             A framework designed for innovative solutions
@@ -243,7 +243,7 @@ function Framework() {
           <div className="aspect-[4/3] w-full rounded-3xl bg-white ring-1 ring-black/5 shadow-[0_30px_60px_-30px_rgba(0,0,0,0.35)] grid place-items-center overflow-hidden">
             <img
               src={SmartJC}
-              alt="Persistent Maps onchain"
+              alt="Java or C easy to learn"
               className="h-full w-full object-cover object-center"
             />
           </div>
@@ -256,7 +256,7 @@ function Framework() {
 function MapsSection() {
   return (
     <section id="maps" className="scroll-mt-14 bg-white">
-      <Container className="py-14 grid gap-10 md:grid-cols-2 items-center">
+      <Container className="py-14 grid gap-10 xl:grid-cols-2 items-center">
         <div>
           <div className="aspect-[4/3] w-full rounded-3xl bg-white ring-1 ring-black/5 shadow-[0_30px_60px_-30px_rgba(0,0,0,0.35)] grid place-items-center overflow-hidden">
             <img
@@ -301,7 +301,7 @@ function MapsSection() {
 function RandomnessSection() {
   return (
     <section id="randomness" className="scroll-mt-14 bg-white">
-      <Container className="py-14 flex flex-col-reverse md:grid gap-10 md:grid-cols-2 items-center">
+      <Container className="py-14 flex flex-col-reverse xl:grid gap-10 xl:grid-cols-2 items-center">
         <div>
           <h2 className="text-2xl font-semibold text-signum-midnight">
             Fair randomness for games & lotteries
@@ -322,7 +322,7 @@ function RandomnessSection() {
           <div className="aspect-[4/3] w-full rounded-3xl bg-white ring-1 ring-black/5 shadow-[0_30px_60px_-30px_rgba(0,0,0,0.35)] grid place-items-center overflow-hidden">
             <img
               src={Randomness}
-              alt="Persistent Maps onchain"
+              alt="Fair randomness for games & lotteries"
               className="h-full w-full object-cover object-center"
             />
           </div>
@@ -335,7 +335,7 @@ function RandomnessSection() {
 function TokenAutomation() {
   return (
     <section id="token-automation" className="scroll-mt-14 bg-white">
-      <Container className="py-14 flex flex-col-reverse md:grid gap-10 md:grid-cols-2 items-center">
+      <Container className="py-14 flex flex-col-reverse xl:grid gap-10 xl:grid-cols-2 items-center">
         <div>
           <h2 className="text-2xl font-semibold text-signum-midnight">
             Token automation: create, mint & distribute
@@ -444,7 +444,7 @@ function FinalCTA() {
 function GreenContractsSection() {
   return (
     <section id="green-contracts" className="scroll-mt-14 bg-white">
-      <Container className="py-14 grid gap-10 md:grid-cols-2 items-center">
+      <Container className="py-14 grid gap-10 xl:grid-cols-2 items-center">
         {/* Visual */}
         <div>
           <div className="aspect-[4/3] w-full rounded-3xl bg-white ring-1 ring-black/5 shadow-[0_30px_60px_-30px_rgba(0,0,0,0.35)] grid place-items-center overflow-hidden">

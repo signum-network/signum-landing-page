@@ -53,8 +53,8 @@ export default function PocPlusPage() {
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
         <Container className="relative z-10 py-12 sm:py-16">
-          <div className="grid items-center gap-8 md:grid-cols-2">
-            <figure className="order-1 md:order-2 justify-self-center md:justify-self-end">
+          <div className="grid items-center gap-8 xl:grid-cols-2">
+            <figure className="order-1 xl:order-2 justify-self-center xl:justify-self-end">
               <img
                 src={pocPlusOpener}
                 alt="Signum PoCPlus"
@@ -88,7 +88,7 @@ export default function PocPlusPage() {
       <main>
         <section className="bg-white">
           <Container className="py-16">
-            <div className="grid grid-cols-1 gap-10 md:grid-cols-5">
+            <div className="grid grid-cols-1 gap-10 xl:grid-cols-5">
               <div className="md:col-span-3">
                 <article className="relative card p-6 overflow-hidden">
                   <h3 className="text-[24px] font-semibold text-signum-midnight mb-4">

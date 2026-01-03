@@ -108,7 +108,7 @@ export default function WalletsPage() {
 
       <main className="relative z-10">
         <Container className="py-14">
-          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-3">
+          <div className="grid grid-cols-1 gap-6 lg:grid-cols-2 xl:grid-cols-3">
             {/* XT Wallet */}
             <article className="relative card p-6 overflow-hidden">
               <img
@@ -319,7 +319,7 @@ export default function WalletsPage() {
           </div>
 
           {/* Learn more */}
-          <div className="mt-12 grid grid-cols-1 gap-6 md:grid-cols-2">
+          <div className="mt-12 grid grid-cols-1 gap-6 lg:grid-cols-2">
             <article className="relative card p-6 overflow-hidden">
               <img
                 src="/img/wallets/ExchnangeTrailer.svg"
