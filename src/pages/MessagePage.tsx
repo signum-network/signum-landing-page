@@ -46,7 +46,7 @@ export default function MessagesPage() {
                      [mask-image:linear-gradient(to_left,black)]
                      [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
-        <Container className="relative z-10 py-12 sm:py-16">
+        <Container className="relative z-10 py-12 min-h-110.25 sm:py-16">
           <div className="grid items-center gap-8 xl:grid-cols-2">
             <figure className="order-1 xl:order-2 justify-self-center xl:justify-self-end">
               <img

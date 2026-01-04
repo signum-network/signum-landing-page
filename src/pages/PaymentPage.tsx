@@ -206,7 +206,7 @@ function WaysToAccept() {
         real on-chain finality.
       </p>
 
-      <div className="mt-6 grid p-6 lg:grid-cols-2 xl:grid-cols-3 gap-6">
+      <div className="mt-6 grid lg:grid-cols-2 xl:grid-cols-3 gap-6">
         {cards.map((c) => (
           <article key={c.title} className="card p-6">
             <div className="rounded-xl bg-signum-acqua/70 p-2 text-signum-midnight/80 w-fit">
@@ -315,29 +315,29 @@ function SubscriptionPlan() {
         amount and interval (from 60 minutes to days or months). Optionally
         include a message that’s sent when the plan starts.
       </p>
-
       <div className="mt-6 card p-6">
+        {/* nur Header-Zeile ist flex */}
         <div className="flex items-start gap-3">
-          <div className="rounded-xl bg-signum-acqua/70 p-2 text-signum-midnight/80 w-fit">
+          <div className="shrink-0 rounded-xl bg-signum-acqua/70 p-2 text-signum-midnight/80">
             <Repeat className="h-5 w-5" />
           </div>
-          <div>
-            <h3 className="font-semibold text-signum-midnight">
-              Why it’s different
-            </h3>
-            <p className="mt-2 text-[15px] text-neutral-700">
-              Plans execute at your chosen interval regardless of network load.
-              This enables effectively{" "}
-              <strong>unlimited transactions per block</strong>, similar in
-              result to “lightning” — but all transactions remain fully
-              on-chain.
-            </p>
-            <div className="mt-4 flex flex-wrap gap-3">
-              <Link className="btn btn-primary" to="/autopayment">
-                Manage your plans
-              </Link>
-            </div>
-          </div>
+          <h3 className="font-semibold text-signum-midnight">
+            Why it’s different
+          </h3>
+        </div>
+
+        {/* ab hier startet alles links bündig im Card-Padding */}
+        <p className="mt-2 text-[15px] text-neutral-700">
+          Plans execute at your chosen interval regardless of network load. This
+          enables effectively <strong>unlimited transactions per block</strong>,
+          similar in result to “lightning” — but all transactions remain fully
+          on-chain.
+        </p>
+
+        <div className="mt-4 flex flex-wrap gap-3">
+          <Link className="btn btn-primary" to="/autopayment">
+            Manage your plans
+          </Link>
         </div>
       </div>
     </section>

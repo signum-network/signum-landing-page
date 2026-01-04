@@ -79,7 +79,7 @@ export default function WalletsPage() {
                         [-webkit-mask-image:linear-gradient(to_left,black,transparent_90%)]"
         />
 
-        <Container className="relative z-10 py-12 sm:py-16">
+        <Container className="relative z-10 py-12 min-h-110.25 sm:py-16">
           <div className="grid items-center gap-8 md:grid-cols-2">
             <figure className="order-1 md:order-2 justify-self-center md:justify-self-end">
               <img
@@ -338,6 +338,7 @@ export default function WalletsPage() {
                 <li>Accounts, Passphrases </li>
                 <li>Signa, Smart Tokens</li>
                 <li>Signum Basiscs</li>
+                <li>Mining Signa</li>
               </ul>
               <div className="mt-6 flex flex-wrap gap-3">
                 <a
