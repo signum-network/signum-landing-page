@@ -231,7 +231,7 @@ export default function SignumSubscriptions() {
                         [mask-image:linear-gradient(to_left,black)]
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
-        <Container className="relative z-10 py-12 sm:py-16">
+        <Container className="relative z-10 py-12 min-h-110.25 sm:py-16">
           <div className="grid items-center gap-8 md:grid-cols-2">
             <div className="order-2 md:order-1 text-center md:text-left">
               <p className="text-sm tracking-widest text-white">

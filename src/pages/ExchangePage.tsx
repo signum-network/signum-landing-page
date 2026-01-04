@@ -136,7 +136,7 @@ export default function ExchangesPage() {
                         [mask-image:linear-gradient(to_left,black)]
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
-        <Container className="py-14">
+        <Container className="py-14 min-h-110.25">
           <p className="text-white">CEX LIST</p>
           <h1 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-white">
             Trade SIGNA on a CEX

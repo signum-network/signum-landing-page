@@ -186,7 +186,7 @@ export default function DisclaimerPage() {
                         [mask-image:linear-gradient(to_left,black)]
                         [-webkit-mask-image:linear-gradient(to_left,black)]"
         />
-        <Container className="py-14">
+        <Container className="py-14 ">
           <div className="grid md:grid-cols-2 items-center gap-10">
             <div className="text-white">
               <p className="text-white">LEGAL DISCLAIMER</p>

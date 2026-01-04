@@ -13,6 +13,7 @@ const linksMenu = [
   { label: "NFTs", href: "https://www.signumart.io" },
   { label: "nostr", href: "https://www.nostrum.network/" },
   { label: "Name System", href: "https://www.signum.domains/" },
+  { label: "Signa Rank Club", href: "https://www.signarank.club/" },
   { label: "Mining Game", href: "https://tmg.notallmine.net/" },
 ];
 
