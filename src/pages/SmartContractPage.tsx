@@ -14,7 +14,7 @@ export default function SmartContractsPage() {
   return (
     <>
       <SeoHelmet
-        title="Signum Smart Contracts – Self-running, efficient, on-chain"
+        title="Signum Smart Contracts - Self-running, efficient, on-chain"
         description="Self-executing smart contracts (AT) on Signum: schedule by block height, interoperate on-chain with SIP-38 Maps, and run with human-scale fees."
         image="https://www.signum.network/og/smart-contracts.png"
         url="https://www.signum.network/smart-contracts"

@@ -1,4 +1,5 @@
 import Container from "../components/Container";
+import SeoHelmet from "../components/SEOHelmet";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faChrome,
@@ -52,6 +53,12 @@ const videos = [
 export default function WalletsPage() {
   return (
     <>
+      <SeoHelmet
+        title="Signum Network – Powering a calmer kind of crypto"
+        description="Sustainable payments, tokens, messages & smart contracts — secured by disk space since 2014."
+        image="https://www.signum.network/og/Signum_blue.png"
+        url="https://www.signum.network/"
+      />
       {/* HERO */}
       <header className="relative isolate overflow-hidden border-b border-neutral-200/60 bg-signum-blue">
         <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-neutral-200 to-transparent" />
