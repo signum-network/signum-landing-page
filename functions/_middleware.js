@@ -23,7 +23,7 @@ function metaFor(pathname) {
     return {
       title: "Signum Mining — Just add disk space",
       desc: "Mine Signa on everyday machines. No GPUs. No noise. Storage does the work.",
-      image: "https://www.signum.network/og/mining.png",
+      image: "https://www.signum.network/og/SignumHDD.png",
     };
 
   if (pathname.startsWith("/payments"))
