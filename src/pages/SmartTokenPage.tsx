@@ -31,7 +31,7 @@ export default function TokensPage() {
   return (
     <>
       <SeoHelmet
-        title="Signum Tokens — simple, on-chain, everywhere • Signum Network"
+        title="Signum Tokens — simple, on-chain, everywhere"
         description="Create and transfer on-chain tokens with low fees. Built-in market, distributions to up to 1.2M holders per block. Sustainable PoC+."
         image="https://www.signum.network/og/tokens.svg"
         url="https://www.signum.network/tokens"

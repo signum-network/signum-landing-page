@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import { fileURLToPath, URL } from "node:url";
 import sitemap from "vite-sitemap";
 
-const siteUrl = "https://www.signum.network"; // kanonisch
+const siteUrl = "https://www.signum.network";
 
 export default defineConfig({
   plugins: [

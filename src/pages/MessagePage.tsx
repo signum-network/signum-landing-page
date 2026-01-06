@@ -22,7 +22,7 @@ export default function MessagesPage() {
   return (
     <>
       <SeoHelmet
-        title="Signum Messages — public or encrypted, on-chain • Signum Network"
+        title="Signum Messages — public or encrypted, on-chain"
         description="Attach notes to payments and transfers, or send message-only transactions. Public or end-to-end encrypted. Low fees, global reach."
         image="https://www.signum.network/og/Signum_blue.png"
         url="https://www.signum.network/messages"
