@@ -94,7 +94,7 @@ export function SignumMiningLanding() {
       <section className="w-full py-16 sm:py-20">
         <div className="mx-auto px-4 sm:px-6 max-w-5xl text-center">
           <p className="kicker text-sm tracking-widest text-signum-midnight/90">
-            MINING CALCULATOR
+            HDD MINING CALCULATOR
           </p>
           <h2 className="mt-2 text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight">
             Estimate your Signa mining income

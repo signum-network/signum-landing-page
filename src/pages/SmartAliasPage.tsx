@@ -18,7 +18,7 @@ export default function AliasesPage() {
   return (
     <>
       <SeoHelmet
-        title="Signum Aliases — human-readable names on-chain • Signum Network"
+        title="Signum Aliases — human-readable names on-chain"
         description="Claim a human-readable alias on Signum and point it to an account, a URL, or a text record. SIP-48 adds “_”, STLD namespaces, and a renewal model similar to web domains."
         image="https://www.signum.network/og/Signum_blue.png"
         url="https://www.signum.network/aliases"

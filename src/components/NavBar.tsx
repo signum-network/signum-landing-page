@@ -211,7 +211,7 @@ export default function NavBar() {
             </div>
 
             <NavLink
-              to="/poc-plus"
+              to="/pocplus"
               className={({ isActive }) =>
                 isActive
                   ? "navlink-underline navlink-underline-active"
